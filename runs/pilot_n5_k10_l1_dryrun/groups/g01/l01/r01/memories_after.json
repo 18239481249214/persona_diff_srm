@@ -1,0 +1,35 @@
+{
+  "A01": {
+    "self": "(mock) I am curious and like talking about old movies.",
+    "others": {
+      "user_t08e": "(mock) seemed interested in old movies."
+    },
+    "interactions": "(mock) Recently talked about old movies."
+  },
+  "A02": {
+    "self": "(mock) I am curious and like talking about old movies.",
+    "others": {
+      "user_udcm": "(mock) seemed interested in old movies."
+    },
+    "interactions": "(mock) Recently talked about old movies."
+  },
+  "A03": {
+    "self": "(mock) I am curious and like talking about old movies.",
+    "others": {
+      "user_hcgp": "(mock) seemed interested in old movies."
+    },
+    "interactions": "(mock) Recently talked about old movies."
+  },
+  "A04": {
+    "self": "(mock) I am curious and like talking about dogs.",
+    "others": {
+      "user_7fk8": "(mock) seemed interested in dogs."
+    },
+    "interactions": "(mock) Recently talked about dogs."
+  },
+  "A05": {
+    "self": "",
+    "others": {},
+    "interactions": ""
+  }
+}

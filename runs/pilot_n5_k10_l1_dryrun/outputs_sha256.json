@@ -1,0 +1,9 @@
+{
+  "ratings.csv": "4952f0d6526acba16970ce9ae3b3f894cd17a263e8c4cf58e1acb5cb3aa2e865",
+  "measures.csv": "4498c691d799cf9324e993f65bf53fb65c213e2ab5cb7413de978358c5f64ec2",
+  "schedule.csv": "a7d1709a4265b74710bd13f3b8ab8b9b69b14b02ccbbf1f270d2e146e93ab7d7",
+  "flags.csv": "c57834313344bd6af249e17b377348557e6d2e93f1f491de6d20fd941a28e8bb",
+  "quarantine.csv": "b18f09878e8a1fa3240c21eefe587ae17fdc76682d2fad7e34a24fb4e41f0007",
+  "transcripts.jsonl": "9c3002e29acce1834a5b371666beb66b2d074e7c138f5d2b59ef78aeb4b6a9b3",
+  "memory_snapshots.jsonl": "359b0b0848b71d4a3e39bb977e038375319d67ea697b9fa8e9d6040442f9865d"
+}

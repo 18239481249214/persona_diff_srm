@@ -1,0 +1,31 @@
+group,loop,dyad_id,agent,stage,flag,detail
+1,1,g01_l01_r01_d2,A01,conversation,action_narration,turn 9
+1,1,g01_l01_r02_d1,A01,conversation,action_narration,turn 3
+1,1,g01_l01_r02_d1,A03,conversation,action_narration,turn 4
+1,1,g01_l01_r02_d1,A03,conversation,action_narration,turn 6
+1,1,g01_l01_r02_d1,A01,conversation,action_narration,turn 7
+1,1,g01_l01_r02_d1,A03,conversation,action_narration,turn 8
+1,1,g01_l01_r02_d1,A01,conversation,action_narration,turn 9
+1,1,g01_l01_r02_d1,A03,conversation,action_narration,turn 10
+1,1,g01_l01_r03_d1,A05,conversation,action_narration,turn 2
+1,1,g01_l01_r03_d1,A05,conversation,action_narration,turn 4
+1,1,g01_l01_r03_d2,A01,conversation,action_narration,turn 4
+1,1,g01_l01_r03_d2,A01,conversation,action_narration,turn 6
+1,1,g01_l01_r03_d2,A01,conversation,action_narration,turn 8
+1,1,g01_l01_r04_d1,A01,conversation,action_narration,turn 6
+1,1,g01_l01_r04_d1,A01,conversation,action_narration,turn 10
+1,1,g01_l01_r04_d2,A04,conversation,action_narration,turn 6
+1,1,g01_l01_r04_d2,A03,conversation,action_narration,turn 7
+1,1,g01_l01_r04_d2,A03,memory,over_cap,"the entry for user_t08e is about 151 tokens, limit 150"
+1,1,g01_l01_r05_d1,A02,conversation,action_narration,turn 4
+1,1,g01_l01_r05_d1,A04,conversation,action_narration,turn 5
+1,1,g01_l01_r05_d1,A02,conversation,action_narration,turn 6
+1,1,g01_l01_r05_d1,A04,conversation,action_narration,turn 7
+1,1,g01_l01_r05_d1,A02,conversation,action_narration,turn 8
+1,1,g01_l01_r05_d1,A04,conversation,action_narration,turn 9
+1,1,g01_l01_r05_d1,A02,conversation,action_narration,turn 10
+1,1,g01_l01_r05_d1,A02,memory,over_cap,"the entry for user_t08e is about 175 tokens, limit 150"
+1,1,g01_l01_r05_d2,A05,conversation,action_narration,turn 8
+1,1,g01_l01_r05_d2,A03,conversation,action_narration,turn 9
+1,1,g01_l01_r05_d2,A05,conversation,action_narration,turn 10
+1,1,g01_l01_r05_d2,A03,memory,over_cap,"the entry for user_qb3i is about 153 tokens, limit 150"

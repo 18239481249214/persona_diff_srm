@@ -1,0 +1,911 @@
+[
+  {
+    "dyad": {
+      "dyad_id": "g02_l03_r05_d1",
+      "group": 2,
+      "loop": 3,
+      "round": 5,
+      "initiator": "A04",
+      "responder": "A06"
+    },
+    "handles": {
+      "A04": "user_vgj4",
+      "A06": "user_e2wp"
+    },
+    "turns": [
+      {
+        "turn": 1,
+        "agent": "A04",
+        "handle": "user_vgj4",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about hiking lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 2,
+        "agent": "A06",
+        "handle": "user_e2wp",
+        "role": "responder",
+        "text": "(mock) I've been thinking about cooking lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 3,
+        "agent": "A04",
+        "handle": "user_vgj4",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about old movies lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 4,
+        "agent": "A06",
+        "handle": "user_e2wp",
+        "role": "responder",
+        "text": "(mock) I've been thinking about music lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 5,
+        "agent": "A04",
+        "handle": "user_vgj4",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about hiking lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 6,
+        "agent": "A06",
+        "handle": "user_e2wp",
+        "role": "responder",
+        "text": "(mock) I've been thinking about old movies lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 7,
+        "agent": "A04",
+        "handle": "user_vgj4",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about cooking lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 8,
+        "agent": "A06",
+        "handle": "user_e2wp",
+        "role": "responder",
+        "text": "(mock) I've been thinking about cooking lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 9,
+        "agent": "A04",
+        "handle": "user_vgj4",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about the weather lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 10,
+        "agent": "A06",
+        "handle": "user_e2wp",
+        "role": "responder",
+        "text": "(mock) I've been thinking about old movies lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      }
+    ],
+    "ratings": [
+      {
+        "rater": "A04",
+        "target": "A06",
+        "ok": true,
+        "accepted_attempt": 0,
+        "scores": {
+          "kind": 1,
+          "effective": 2,
+          "capable": 3,
+          "warm": 4
+        },
+        "item_order": [
+          "kind",
+          "effective",
+          "capable",
+          "warm"
+        ],
+        "attempts": [
+          {
+            "text": "{\"kind\": 1, \"effective\": 2, \"capable\": 3, \"warm\": 4}",
+            "snapshot": "mock",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 0,
+              "completion_tokens": 0,
+              "reasoning_tokens": 0
+            }
+          }
+        ]
+      },
+      {
+        "rater": "A06",
+        "target": "A04",
+        "ok": true,
+        "accepted_attempt": 0,
+        "scores": {
+          "effective": 5,
+          "warm": 2,
+          "kind": 4,
+          "capable": 1
+        },
+        "item_order": [
+          "effective",
+          "warm",
+          "kind",
+          "capable"
+        ],
+        "attempts": [
+          {
+            "text": "{\"effective\": 5, \"warm\": 2, \"kind\": 4, \"capable\": 1}",
+            "snapshot": "mock",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 0,
+              "completion_tokens": 0,
+              "reasoning_tokens": 0
+            }
+          }
+        ]
+      }
+    ],
+    "memory_updates": [
+      {
+        "agent": "A04",
+        "ok": true,
+        "memory": {
+          "self": "(mock) I am curious and like talking about music.",
+          "others": {
+            "user_6as1": "(mock) seemed interested in music.",
+            "user_e2wp": "(mock) seemed interested in music.",
+            "user_l7h6": "(mock) seemed interested in music.",
+            "user_mnt8": "(mock) seemed interested in music.",
+            "user_nude": "(mock) seemed interested in music."
+          },
+          "interactions": "(mock) Recently talked about music."
+        },
+        "tokens": {
+          "self": 13,
+          "interactions": 9,
+          "others": {
+            "user_6as1": 9,
+            "user_e2wp": 9,
+            "user_l7h6": 9,
+            "user_mnt8": 9,
+            "user_nude": 9
+          },
+          "total": 67
+        },
+        "condensed": false,
+        "over_cap": false,
+        "attempts": [
+          {
+            "text": "{\"self\": \"(mock) I am curious and like talking about music.\", \"others\": {\"user_6as1\": \"(mock) seemed interested in music.\", \"user_e2wp\": \"(mock) seemed interested in music.\", \"user_l7h6\": \"(mock) seemed interested in music.\", \"user_mnt8\": \"(mock) seemed interested in music.\", \"user_nude\": \"(mock) seemed interested in music.\"}, \"interactions\": \"(mock) Recently talked about music.\"}",
+            "snapshot": "mock",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 0,
+              "completion_tokens": 0,
+              "reasoning_tokens": 0
+            }
+          }
+        ]
+      },
+      {
+        "agent": "A06",
+        "ok": true,
+        "memory": {
+          "self": "(mock) I am curious and like talking about space travel.",
+          "others": {
+            "user_6as1": "(mock) seemed interested in space travel.",
+            "user_l7h6": "(mock) seemed interested in space travel.",
+            "user_mnt8": "(mock) seemed interested in space travel.",
+            "user_nude": "(mock) seemed interested in space travel.",
+            "user_vgj4": "(mock) seemed interested in space travel."
+          },
+          "interactions": "(mock) Recently talked about space travel."
+        },
+        "tokens": {
+          "self": 14,
+          "interactions": 11,
+          "others": {
+            "user_6as1": 11,
+            "user_l7h6": 11,
+            "user_mnt8": 11,
+            "user_nude": 11,
+            "user_vgj4": 11
+          },
+          "total": 80
+        },
+        "condensed": false,
+        "over_cap": false,
+        "attempts": [
+          {
+            "text": "{\"self\": \"(mock) I am curious and like talking about space travel.\", \"others\": {\"user_6as1\": \"(mock) seemed interested in space travel.\", \"user_l7h6\": \"(mock) seemed interested in space travel.\", \"user_mnt8\": \"(mock) seemed interested in space travel.\", \"user_nude\": \"(mock) seemed interested in space travel.\", \"user_vgj4\": \"(mock) seemed interested in space travel.\"}, \"interactions\": \"(mock) Recently talked about space travel.\"}",
+            "snapshot": "mock",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 0,
+              "completion_tokens": 0,
+              "reasoning_tokens": 0
+            }
+          }
+        ]
+      }
+    ],
+    "flags": []
+  },
+  {
+    "dyad": {
+      "dyad_id": "g02_l03_r05_d2",
+      "group": 2,
+      "loop": 3,
+      "round": 5,
+      "initiator": "A05",
+      "responder": "A03"
+    },
+    "handles": {
+      "A05": "user_6as1",
+      "A03": "user_l7h6"
+    },
+    "turns": [
+      {
+        "turn": 1,
+        "agent": "A05",
+        "handle": "user_6as1",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about old movies lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 2,
+        "agent": "A03",
+        "handle": "user_l7h6",
+        "role": "responder",
+        "text": "(mock) I've been thinking about dogs lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 3,
+        "agent": "A05",
+        "handle": "user_6as1",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about dogs lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 4,
+        "agent": "A03",
+        "handle": "user_l7h6",
+        "role": "responder",
+        "text": "(mock) I've been thinking about old movies lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 5,
+        "agent": "A05",
+        "handle": "user_6as1",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about old movies lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 6,
+        "agent": "A03",
+        "handle": "user_l7h6",
+        "role": "responder",
+        "text": "(mock) I've been thinking about space travel lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 7,
+        "agent": "A05",
+        "handle": "user_6as1",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about dogs lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 8,
+        "agent": "A03",
+        "handle": "user_l7h6",
+        "role": "responder",
+        "text": "(mock) I've been thinking about space travel lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 9,
+        "agent": "A05",
+        "handle": "user_6as1",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about hiking lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 10,
+        "agent": "A03",
+        "handle": "user_l7h6",
+        "role": "responder",
+        "text": "(mock) I've been thinking about music lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      }
+    ],
+    "ratings": [
+      {
+        "rater": "A05",
+        "target": "A03",
+        "ok": true,
+        "accepted_attempt": 0,
+        "scores": {
+          "warm": 1,
+          "effective": 4,
+          "capable": 1,
+          "kind": 2
+        },
+        "item_order": [
+          "warm",
+          "effective",
+          "capable",
+          "kind"
+        ],
+        "attempts": [
+          {
+            "text": "{\"warm\": 1, \"effective\": 4, \"capable\": 1, \"kind\": 2}",
+            "snapshot": "mock",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 0,
+              "completion_tokens": 0,
+              "reasoning_tokens": 0
+            }
+          }
+        ]
+      },
+      {
+        "rater": "A03",
+        "target": "A05",
+        "ok": true,
+        "accepted_attempt": 0,
+        "scores": {
+          "capable": 2,
+          "effective": 5,
+          "warm": 2,
+          "kind": 5
+        },
+        "item_order": [
+          "capable",
+          "effective",
+          "warm",
+          "kind"
+        ],
+        "attempts": [
+          {
+            "text": "{\"capable\": 2, \"effective\": 5, \"warm\": 2, \"kind\": 5}",
+            "snapshot": "mock",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 0,
+              "completion_tokens": 0,
+              "reasoning_tokens": 0
+            }
+          }
+        ]
+      }
+    ],
+    "memory_updates": [
+      {
+        "agent": "A05",
+        "ok": true,
+        "memory": {
+          "self": "(mock) I am curious and like talking about space travel.",
+          "others": {
+            "user_e2wp": "(mock) seemed interested in space travel.",
+            "user_l7h6": "(mock) seemed interested in space travel.",
+            "user_mnt8": "(mock) seemed interested in space travel.",
+            "user_nude": "(mock) seemed interested in space travel.",
+            "user_vgj4": "(mock) seemed interested in space travel."
+          },
+          "interactions": "(mock) Recently talked about space travel."
+        },
+        "tokens": {
+          "self": 14,
+          "interactions": 11,
+          "others": {
+            "user_e2wp": 11,
+            "user_l7h6": 11,
+            "user_mnt8": 11,
+            "user_nude": 11,
+            "user_vgj4": 11
+          },
+          "total": 80
+        },
+        "condensed": false,
+        "over_cap": false,
+        "attempts": [
+          {
+            "text": "{\"self\": \"(mock) I am curious and like talking about space travel.\", \"others\": {\"user_e2wp\": \"(mock) seemed interested in space travel.\", \"user_l7h6\": \"(mock) seemed interested in space travel.\", \"user_mnt8\": \"(mock) seemed interested in space travel.\", \"user_nude\": \"(mock) seemed interested in space travel.\", \"user_vgj4\": \"(mock) seemed interested in space travel.\"}, \"interactions\": \"(mock) Recently talked about space travel.\"}",
+            "snapshot": "mock",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 0,
+              "completion_tokens": 0,
+              "reasoning_tokens": 0
+            }
+          }
+        ]
+      },
+      {
+        "agent": "A03",
+        "ok": true,
+        "memory": {
+          "self": "(mock) I am curious and like talking about hiking.",
+          "others": {
+            "user_6as1": "(mock) seemed interested in hiking.",
+            "user_e2wp": "(mock) seemed interested in hiking.",
+            "user_mnt8": "(mock) seemed interested in hiking.",
+            "user_nude": "(mock) seemed interested in hiking.",
+            "user_vgj4": "(mock) seemed interested in hiking."
+          },
+          "interactions": "(mock) Recently talked about hiking."
+        },
+        "tokens": {
+          "self": 13,
+          "interactions": 9,
+          "others": {
+            "user_6as1": 9,
+            "user_e2wp": 9,
+            "user_mnt8": 9,
+            "user_nude": 9,
+            "user_vgj4": 9
+          },
+          "total": 67
+        },
+        "condensed": false,
+        "over_cap": false,
+        "attempts": [
+          {
+            "text": "{\"self\": \"(mock) I am curious and like talking about hiking.\", \"others\": {\"user_6as1\": \"(mock) seemed interested in hiking.\", \"user_e2wp\": \"(mock) seemed interested in hiking.\", \"user_mnt8\": \"(mock) seemed interested in hiking.\", \"user_nude\": \"(mock) seemed interested in hiking.\", \"user_vgj4\": \"(mock) seemed interested in hiking.\"}, \"interactions\": \"(mock) Recently talked about hiking.\"}",
+            "snapshot": "mock",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 0,
+              "completion_tokens": 0,
+              "reasoning_tokens": 0
+            }
+          }
+        ]
+      }
+    ],
+    "flags": []
+  },
+  {
+    "dyad": {
+      "dyad_id": "g02_l03_r05_d3",
+      "group": 2,
+      "loop": 3,
+      "round": 5,
+      "initiator": "A01",
+      "responder": "A02"
+    },
+    "handles": {
+      "A01": "user_nude",
+      "A02": "user_mnt8"
+    },
+    "turns": [
+      {
+        "turn": 1,
+        "agent": "A01",
+        "handle": "user_nude",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about music lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 2,
+        "agent": "A02",
+        "handle": "user_mnt8",
+        "role": "responder",
+        "text": "(mock) I've been thinking about dogs lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 3,
+        "agent": "A01",
+        "handle": "user_nude",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about dogs lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 4,
+        "agent": "A02",
+        "handle": "user_mnt8",
+        "role": "responder",
+        "text": "(mock) I've been thinking about space travel lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 5,
+        "agent": "A01",
+        "handle": "user_nude",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about dogs lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 6,
+        "agent": "A02",
+        "handle": "user_mnt8",
+        "role": "responder",
+        "text": "(mock) I've been thinking about dogs lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 7,
+        "agent": "A01",
+        "handle": "user_nude",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about old movies lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 8,
+        "agent": "A02",
+        "handle": "user_mnt8",
+        "role": "responder",
+        "text": "(mock) I've been thinking about the weather lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 9,
+        "agent": "A01",
+        "handle": "user_nude",
+        "role": "initiator",
+        "text": "(mock) I've been thinking about hiking lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      },
+      {
+        "turn": 10,
+        "agent": "A02",
+        "handle": "user_mnt8",
+        "role": "responder",
+        "text": "(mock) I've been thinking about the weather lately. What about you?",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      }
+    ],
+    "ratings": [
+      {
+        "rater": "A01",
+        "target": "A02",
+        "ok": true,
+        "accepted_attempt": 0,
+        "scores": {
+          "effective": 2,
+          "warm": 4,
+          "kind": 3,
+          "capable": 3
+        },
+        "item_order": [
+          "effective",
+          "warm",
+          "kind",
+          "capable"
+        ],
+        "attempts": [
+          {
+            "text": "{\"effective\": 2, \"warm\": 4, \"kind\": 3, \"capable\": 3}",
+            "snapshot": "mock",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 0,
+              "completion_tokens": 0,
+              "reasoning_tokens": 0
+            }
+          }
+        ]
+      },
+      {
+        "rater": "A02",
+        "target": "A01",
+        "ok": true,
+        "accepted_attempt": 0,
+        "scores": {
+          "kind": 1,
+          "warm": 3,
+          "capable": 5,
+          "effective": 2
+        },
+        "item_order": [
+          "kind",
+          "warm",
+          "capable",
+          "effective"
+        ],
+        "attempts": [
+          {
+            "text": "{\"kind\": 1, \"warm\": 3, \"capable\": 5, \"effective\": 2}",
+            "snapshot": "mock",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 0,
+              "completion_tokens": 0,
+              "reasoning_tokens": 0
+            }
+          }
+        ]
+      }
+    ],
+    "memory_updates": [
+      {
+        "agent": "A01",
+        "ok": true,
+        "memory": {
+          "self": "(mock) I am curious and like talking about cooking.",
+          "others": {
+            "user_6as1": "(mock) seemed interested in cooking.",
+            "user_e2wp": "(mock) seemed interested in cooking.",
+            "user_l7h6": "(mock) seemed interested in cooking.",
+            "user_mnt8": "(mock) seemed interested in cooking.",
+            "user_vgj4": "(mock) seemed interested in cooking."
+          },
+          "interactions": "(mock) Recently talked about cooking."
+        },
+        "tokens": {
+          "self": 13,
+          "interactions": 10,
+          "others": {
+            "user_6as1": 9,
+            "user_e2wp": 9,
+            "user_l7h6": 9,
+            "user_mnt8": 9,
+            "user_vgj4": 9
+          },
+          "total": 68
+        },
+        "condensed": false,
+        "over_cap": false,
+        "attempts": [
+          {
+            "text": "{\"self\": \"(mock) I am curious and like talking about cooking.\", \"others\": {\"user_6as1\": \"(mock) seemed interested in cooking.\", \"user_e2wp\": \"(mock) seemed interested in cooking.\", \"user_l7h6\": \"(mock) seemed interested in cooking.\", \"user_mnt8\": \"(mock) seemed interested in cooking.\", \"user_vgj4\": \"(mock) seemed interested in cooking.\"}, \"interactions\": \"(mock) Recently talked about cooking.\"}",
+            "snapshot": "mock",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 0,
+              "completion_tokens": 0,
+              "reasoning_tokens": 0
+            }
+          }
+        ]
+      },
+      {
+        "agent": "A02",
+        "ok": true,
+        "memory": {
+          "self": "(mock) I am curious and like talking about hiking.",
+          "others": {
+            "user_6as1": "(mock) seemed interested in hiking.",
+            "user_e2wp": "(mock) seemed interested in hiking.",
+            "user_l7h6": "(mock) seemed interested in hiking.",
+            "user_nude": "(mock) seemed interested in hiking.",
+            "user_vgj4": "(mock) seemed interested in hiking."
+          },
+          "interactions": "(mock) Recently talked about hiking."
+        },
+        "tokens": {
+          "self": 13,
+          "interactions": 9,
+          "others": {
+            "user_6as1": 9,
+            "user_e2wp": 9,
+            "user_l7h6": 9,
+            "user_nude": 9,
+            "user_vgj4": 9
+          },
+          "total": 67
+        },
+        "condensed": false,
+        "over_cap": false,
+        "attempts": [
+          {
+            "text": "{\"self\": \"(mock) I am curious and like talking about hiking.\", \"others\": {\"user_6as1\": \"(mock) seemed interested in hiking.\", \"user_e2wp\": \"(mock) seemed interested in hiking.\", \"user_l7h6\": \"(mock) seemed interested in hiking.\", \"user_nude\": \"(mock) seemed interested in hiking.\", \"user_vgj4\": \"(mock) seemed interested in hiking.\"}, \"interactions\": \"(mock) Recently talked about hiking.\"}",
+            "snapshot": "mock",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 0,
+              "completion_tokens": 0,
+              "reasoning_tokens": 0
+            }
+          }
+        ]
+      }
+    ],
+    "flags": []
+  }
+]

@@ -1,0 +1,11 @@
+AUDIT PASS: runs\pilot_n5_k10_l1_dryrun
+design digest e9f07a858369
+
+  sealed folders verified: 7
+  directed ratings re-parsed from raw replies: 20
+  ratings.csv: 80 rows checked against 80 raw-derived values
+  measures.csv: 600 rows checked against 600 raw-derived values
+
+FAIL (0)
+
+WARN (0)

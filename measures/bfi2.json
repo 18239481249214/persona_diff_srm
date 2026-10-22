@@ -1,0 +1,21 @@
+{
+  "name": "bfi2",
+  "description": "Big Five Inventory-2 (Soto & John, 2017). 60 items, 1-5 agreement scale. Scoring is done downstream, not by the runner.",
+  "instructions": "Below are statements describing characteristics that may or may not apply to you. Indicate how much you agree or disagree that each statement describes you.",
+  "item_stem": "I am someone who...",
+  "scale": {
+    "min": 1,
+    "max": 5,
+    "labels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "3": "Neutral; no opinion",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "items_file": "data/bfi2_items.csv",
+  "expected_items": 60,
+  "randomize_order": true,
+  "max_tokens": null
+}

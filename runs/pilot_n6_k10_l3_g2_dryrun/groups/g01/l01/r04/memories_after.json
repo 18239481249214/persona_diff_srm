@@ -1,0 +1,62 @@
+{
+  "A01": {
+    "self": "(mock) I am curious and like talking about the weather.",
+    "others": {
+      "user_bkk4": "(mock) seemed interested in the weather.",
+      "user_qb3i": "(mock) seemed interested in the weather.",
+      "user_t08e": "(mock) seemed interested in the weather.",
+      "user_udcm": "(mock) seemed interested in the weather."
+    },
+    "interactions": "(mock) Recently talked about the weather."
+  },
+  "A02": {
+    "self": "(mock) I am curious and like talking about the weather.",
+    "others": {
+      "user_bkk4": "(mock) seemed interested in the weather.",
+      "user_qb3i": "(mock) seemed interested in the weather.",
+      "user_t08e": "(mock) seemed interested in the weather.",
+      "user_udcm": "(mock) seemed interested in the weather."
+    },
+    "interactions": "(mock) Recently talked about the weather."
+  },
+  "A03": {
+    "self": "(mock) I am curious and like talking about the weather.",
+    "others": {
+      "user_7fk8": "(mock) seemed interested in the weather.",
+      "user_hcgp": "(mock) seemed interested in the weather.",
+      "user_qb3i": "(mock) seemed interested in the weather.",
+      "user_t08e": "(mock) seemed interested in the weather."
+    },
+    "interactions": "(mock) Recently talked about the weather."
+  },
+  "A04": {
+    "self": "(mock) I am curious and like talking about old movies.",
+    "others": {
+      "user_7fk8": "(mock) seemed interested in old movies.",
+      "user_bkk4": "(mock) seemed interested in old movies.",
+      "user_hcgp": "(mock) seemed interested in old movies.",
+      "user_udcm": "(mock) seemed interested in old movies."
+    },
+    "interactions": "(mock) Recently talked about old movies."
+  },
+  "A05": {
+    "self": "(mock) I am curious and like talking about space travel.",
+    "others": {
+      "user_7fk8": "(mock) seemed interested in space travel.",
+      "user_bkk4": "(mock) seemed interested in space travel.",
+      "user_hcgp": "(mock) seemed interested in space travel.",
+      "user_udcm": "(mock) seemed interested in space travel."
+    },
+    "interactions": "(mock) Recently talked about space travel."
+  },
+  "A06": {
+    "self": "(mock) I am curious and like talking about hiking.",
+    "others": {
+      "user_7fk8": "(mock) seemed interested in hiking.",
+      "user_hcgp": "(mock) seemed interested in hiking.",
+      "user_qb3i": "(mock) seemed interested in hiking.",
+      "user_t08e": "(mock) seemed interested in hiking."
+    },
+    "interactions": "(mock) Recently talked about hiking."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "A01": {
+    "self": "(mock) I am curious and like talking about dogs.",
+    "others": {
+      "user_hcgp": "(mock) seemed interested in dogs.",
+      "user_qb3i": "(mock) seemed interested in dogs.",
+      "user_t08e": "(mock) seemed interested in dogs.",
+      "user_udcm": "(mock) seemed interested in dogs."
+    },
+    "interactions": "(mock) Recently talked about dogs."
+  },
+  "A02": {
+    "self": "(mock) I am curious and like talking about space travel.",
+    "others": {
+      "user_7fk8": "(mock) seemed interested in space travel.",
+      "user_qb3i": "(mock) seemed interested in space travel.",
+      "user_udcm": "(mock) seemed interested in space travel."
+    },
+    "interactions": "(mock) Recently talked about space travel."
+  },
+  "A03": {
+    "self": "(mock) I am curious and like talking about space travel.",
+    "others": {
+      "user_7fk8": "(mock) seemed interested in space travel.",
+      "user_hcgp": "(mock) seemed interested in space travel.",
+      "user_t08e": "(mock) seemed interested in space travel."
+    },
+    "interactions": "(mock) Recently talked about space travel."
+  },
+  "A04": {
+    "self": "(mock) I am curious and like talking about cooking.",
+    "others": {
+      "user_7fk8": "(mock) seemed interested in cooking.",
+      "user_qb3i": "(mock) seemed interested in cooking.",
+      "user_udcm": "(mock) seemed interested in cooking."
+    },
+    "interactions": "(mock) Recently talked about cooking."
+  },
+  "A05": {
+    "self": "(mock) I am curious and like talking about old movies.",
+    "others": {
+      "user_7fk8": "(mock) seemed interested in old movies.",
+      "user_hcgp": "(mock) seemed interested in old movies.",
+      "user_t08e": "(mock) seemed interested in old movies."
+    },
+    "interactions": "(mock) Recently talked about old movies."
+  }
+}

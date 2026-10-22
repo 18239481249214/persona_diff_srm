@@ -1,0 +1,68 @@
+{
+  "A01": {
+    "self": "(mock) I am curious and like talking about music.",
+    "others": {
+      "user_6as1": "(mock) seemed interested in music.",
+      "user_e2wp": "(mock) seemed interested in music.",
+      "user_l7h6": "(mock) seemed interested in music.",
+      "user_mnt8": "(mock) seemed interested in music.",
+      "user_vgj4": "(mock) seemed interested in music."
+    },
+    "interactions": "(mock) Recently talked about music."
+  },
+  "A02": {
+    "self": "(mock) I am curious and like talking about hiking.",
+    "others": {
+      "user_6as1": "(mock) seemed interested in hiking.",
+      "user_e2wp": "(mock) seemed interested in hiking.",
+      "user_l7h6": "(mock) seemed interested in hiking.",
+      "user_nude": "(mock) seemed interested in hiking.",
+      "user_vgj4": "(mock) seemed interested in hiking."
+    },
+    "interactions": "(mock) Recently talked about hiking."
+  },
+  "A03": {
+    "self": "(mock) I am curious and like talking about dogs.",
+    "others": {
+      "user_6as1": "(mock) seemed interested in dogs.",
+      "user_e2wp": "(mock) seemed interested in dogs.",
+      "user_mnt8": "(mock) seemed interested in dogs.",
+      "user_nude": "(mock) seemed interested in dogs.",
+      "user_vgj4": "(mock) seemed interested in dogs."
+    },
+    "interactions": "(mock) Recently talked about dogs."
+  },
+  "A04": {
+    "self": "(mock) I am curious and like talking about music.",
+    "others": {
+      "user_6as1": "(mock) seemed interested in music.",
+      "user_e2wp": "(mock) seemed interested in music.",
+      "user_l7h6": "(mock) seemed interested in music.",
+      "user_mnt8": "(mock) seemed interested in music.",
+      "user_nude": "(mock) seemed interested in music."
+    },
+    "interactions": "(mock) Recently talked about music."
+  },
+  "A05": {
+    "self": "(mock) I am curious and like talking about cooking.",
+    "others": {
+      "user_e2wp": "(mock) seemed interested in cooking.",
+      "user_l7h6": "(mock) seemed interested in cooking.",
+      "user_mnt8": "(mock) seemed interested in cooking.",
+      "user_nude": "(mock) seemed interested in cooking.",
+      "user_vgj4": "(mock) seemed interested in cooking."
+    },
+    "interactions": "(mock) Recently talked about cooking."
+  },
+  "A06": {
+    "self": "(mock) I am curious and like talking about cooking.",
+    "others": {
+      "user_6as1": "(mock) seemed interested in cooking.",
+      "user_l7h6": "(mock) seemed interested in cooking.",
+      "user_mnt8": "(mock) seemed interested in cooking.",
+      "user_nude": "(mock) seemed interested in cooking.",
+      "user_vgj4": "(mock) seemed interested in cooking."
+    },
+    "interactions": "(mock) Recently talked about cooking."
+  }
+}

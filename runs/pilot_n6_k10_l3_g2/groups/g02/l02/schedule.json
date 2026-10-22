@@ -1,0 +1,132 @@
+[
+  [
+    {
+      "dyad_id": "g02_l02_r01_d1",
+      "group": 2,
+      "loop": 2,
+      "round": 1,
+      "initiator": "A01",
+      "responder": "A05"
+    },
+    {
+      "dyad_id": "g02_l02_r01_d2",
+      "group": 2,
+      "loop": 2,
+      "round": 1,
+      "initiator": "A02",
+      "responder": "A04"
+    },
+    {
+      "dyad_id": "g02_l02_r01_d3",
+      "group": 2,
+      "loop": 2,
+      "round": 1,
+      "initiator": "A06",
+      "responder": "A03"
+    }
+  ],
+  [
+    {
+      "dyad_id": "g02_l02_r02_d1",
+      "group": 2,
+      "loop": 2,
+      "round": 2,
+      "initiator": "A01",
+      "responder": "A03"
+    },
+    {
+      "dyad_id": "g02_l02_r02_d2",
+      "group": 2,
+      "loop": 2,
+      "round": 2,
+      "initiator": "A05",
+      "responder": "A04"
+    },
+    {
+      "dyad_id": "g02_l02_r02_d3",
+      "group": 2,
+      "loop": 2,
+      "round": 2,
+      "initiator": "A02",
+      "responder": "A06"
+    }
+  ],
+  [
+    {
+      "dyad_id": "g02_l02_r03_d1",
+      "group": 2,
+      "loop": 2,
+      "round": 3,
+      "initiator": "A03",
+      "responder": "A05"
+    },
+    {
+      "dyad_id": "g02_l02_r03_d2",
+      "group": 2,
+      "loop": 2,
+      "round": 3,
+      "initiator": "A01",
+      "responder": "A02"
+    },
+    {
+      "dyad_id": "g02_l02_r03_d3",
+      "group": 2,
+      "loop": 2,
+      "round": 3,
+      "initiator": "A04",
+      "responder": "A06"
+    }
+  ],
+  [
+    {
+      "dyad_id": "g02_l02_r04_d1",
+      "group": 2,
+      "loop": 2,
+      "round": 4,
+      "initiator": "A05",
+      "responder": "A02"
+    },
+    {
+      "dyad_id": "g02_l02_r04_d2",
+      "group": 2,
+      "loop": 2,
+      "round": 4,
+      "initiator": "A06",
+      "responder": "A01"
+    },
+    {
+      "dyad_id": "g02_l02_r04_d3",
+      "group": 2,
+      "loop": 2,
+      "round": 4,
+      "initiator": "A03",
+      "responder": "A04"
+    }
+  ],
+  [
+    {
+      "dyad_id": "g02_l02_r05_d1",
+      "group": 2,
+      "loop": 2,
+      "round": 5,
+      "initiator": "A05",
+      "responder": "A06"
+    },
+    {
+      "dyad_id": "g02_l02_r05_d2",
+      "group": 2,
+      "loop": 2,
+      "round": 5,
+      "initiator": "A04",
+      "responder": "A01"
+    },
+    {
+      "dyad_id": "g02_l02_r05_d3",
+      "group": 2,
+      "loop": 2,
+      "round": 5,
+      "initiator": "A03",
+      "responder": "A02"
+    }
+  ]
+]

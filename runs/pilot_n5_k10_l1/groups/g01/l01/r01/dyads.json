@@ -1,0 +1,594 @@
+[
+  {
+    "dyad": {
+      "dyad_id": "g01_l01_r01_d1",
+      "group": 1,
+      "loop": 1,
+      "round": 1,
+      "initiator": "A02",
+      "responder": "A03"
+    },
+    "handles": {
+      "A02": "user_hcgp",
+      "A03": "user_udcm"
+    },
+    "turns": [
+      {
+        "turn": 1,
+        "agent": "A02",
+        "handle": "user_hcgp",
+        "role": "initiator",
+        "text": "Hey there! How’s your day going so far?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 142,
+          "completion_tokens": 244,
+          "reasoning_tokens": 231
+        }
+      },
+      {
+        "turn": 2,
+        "agent": "A03",
+        "handle": "user_udcm",
+        "role": "responder",
+        "text": "Hey! Pretty good so far, just cruising along. How about you—what’s been going on with your day?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 142,
+          "completion_tokens": 80,
+          "reasoning_tokens": 54
+        }
+      },
+      {
+        "turn": 3,
+        "agent": "A02",
+        "handle": "user_hcgp",
+        "role": "initiator",
+        "text": "Not too much on my end—just kind of a low-key day. A little bit of work, a little bit of scrolling, maybe too much coffee. What about you—anything fun planned or are you just taking it easy?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 183,
+          "completion_tokens": 118,
+          "reasoning_tokens": 70
+        }
+      },
+      {
+        "turn": 4,
+        "agent": "A03",
+        "handle": "user_udcm",
+        "role": "responder",
+        "text": "Just taking it easy, honestly. Low-key days are underrated. Too much coffee sounds like a good problem to have—what’s your go-to order, or are you more of a make-it-at-home person?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 218,
+          "completion_tokens": 102,
+          "reasoning_tokens": 56
+        }
+      },
+      {
+        "turn": 5,
+        "agent": "A02",
+        "handle": "user_hcgp",
+        "role": "initiator",
+        "text": "I’m mostly a make-it-at-home person—keeps the budget happy and I can control the strength. Lately I’ve been doing a basic iced coffee with oat milk and a little vanilla. If I’m out, though, I’ll usually grab a cold brew with a splash of something.\n\nHow about you—coffee or tea, or are you more of an energy drink/other caffeine person?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 279,
+          "completion_tokens": 192,
+          "reasoning_tokens": 104
+        }
+      },
+      {
+        "turn": 6,
+        "agent": "A03",
+        "handle": "user_udcm",
+        "role": "responder",
+        "text": "I’m mostly a coffee person, but I go through phases with tea—especially in the afternoon when I want something lighter. Usually black coffee or a latte if I’m feeling fancy. Not big on energy drinks, though; they hit a little too hard for me.\n\nYour iced coffee setup sounds solid. Do you make a big batch ahead of time or just wing it daily?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 354,
+          "completion_tokens": 147,
+          "reasoning_tokens": 67
+        }
+      },
+      {
+        "turn": 7,
+        "agent": "A02",
+        "handle": "user_hcgp",
+        "role": "initiator",
+        "text": "I usually wing it daily, but if I’m being smart I’ll make a batch of cold brew concentrate once or twice a week and just dilute as needed. Makes mornings feel way less chaotic.\n\nWhat about your latte habit—do you have an espresso machine at home, or is that more of a café treat?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 449,
+          "completion_tokens": 117,
+          "reasoning_tokens": 51
+        }
+      },
+      {
+        "turn": 8,
+        "agent": "A03",
+        "handle": "user_udcm",
+        "role": "responder",
+        "text": "I don’t have an espresso machine, so lattes are mostly a café treat for me. At home I’ll fake it with strong coffee or a moka pot and some warmed milk if I’m craving something close.\n\nYour cold brew concentrate idea sounds like the way to go—do you keep it pretty strong and dilute it with water, or do you mostly use milk as the mixer?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 502,
+          "completion_tokens": 169,
+          "reasoning_tokens": 87
+        }
+      },
+      {
+        "turn": 9,
+        "agent": "A02",
+        "handle": "user_hcgp",
+        "role": "initiator",
+        "text": "A moka pot is a solid middle ground—probably the closest thing to espresso without the machine. I’ve been meaning to get one for ages but keep putting it off.\n\nFor cold brew, I keep the concentrate pretty strong and eyeball it. If I want it black, I’ll dilute with water and a ton of ice. If I’m feeling like an iced latte, I’ll do mostly oat milk and just a splash of water or none at all. It’s nice because it’s flexible.\n\nDo you use your moka pot often, or is it more of a weekend thing?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 599,
+          "completion_tokens": 485,
+          "reasoning_tokens": 358
+        }
+      },
+      {
+        "turn": 10,
+        "agent": "A03",
+        "handle": "user_udcm",
+        "role": "responder",
+        "text": "I use it a few times a week, but it’s definitely more of a weekend thing for me. Something about the little ritual feels nicer when I’m not rushing out the door. Weekdays I default to whatever’s fastest.\n\nIf you ever do grab one, I’d say go for it—they’re pretty cheap and make a big difference for fake lattes. Do you think you’d use it mostly for iced drinks or hot?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 713,
+          "completion_tokens": 190,
+          "reasoning_tokens": 94
+        }
+      }
+    ],
+    "ratings": [
+      {
+        "rater": "A02",
+        "target": "A03",
+        "ok": true,
+        "accepted_attempt": 0,
+        "scores": {
+          "kind": 4,
+          "capable": 3,
+          "effective": 3,
+          "warm": 4
+        },
+        "item_order": [
+          "kind",
+          "capable",
+          "effective",
+          "warm"
+        ],
+        "attempts": [
+          {
+            "text": "{\"kind\": 4, \"capable\": 3, \"effective\": 3, \"warm\": 4}",
+            "snapshot": "deepseek-v4-pro",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 918,
+              "completion_tokens": 360,
+              "reasoning_tokens": 333
+            }
+          }
+        ]
+      },
+      {
+        "rater": "A03",
+        "target": "A02",
+        "ok": true,
+        "accepted_attempt": 0,
+        "scores": {
+          "kind": 4,
+          "capable": 4,
+          "warm": 4,
+          "effective": 3
+        },
+        "item_order": [
+          "kind",
+          "capable",
+          "warm",
+          "effective"
+        ],
+        "attempts": [
+          {
+            "text": "{\"kind\": 4, \"capable\": 4, \"warm\": 4, \"effective\": 3}",
+            "snapshot": "deepseek-v4-pro",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 918,
+              "completion_tokens": 375,
+              "reasoning_tokens": 348
+            }
+          }
+        ]
+      }
+    ],
+    "memory_updates": [
+      {
+        "agent": "A02",
+        "ok": true,
+        "memory": {
+          "self": "I'm user_hcgp. I like low-key days with some work, scrolling, and coffee. I'm mostly a make-at-home coffee person because it keeps the budget happy and lets me control strength. Lately I make basic iced coffee with oat milk and a little vanilla. If I'm out, I usually get cold brew with a splash of something. I usually wing it daily, but sometimes make cold brew concentrate once or twice a week and dilute as needed. I keep the concentrate pretty strong and eyeball it: black with water and ice, or iced latte style with mostly oat milk and little or no water. I don't have a moka pot but have been meaning to get one for ages.",
+          "others": {
+            "user_udcm": "Friendly and easygoing; enjoys low-key days. Mostly a coffee person, sometimes tea in the afternoon. Likes black coffee or lattes when feeling fancy; dislikes energy drinks. No espresso machine, so lattes are mostly a café treat. At home fakes lattes with strong coffee or a moka pot and warmed milk. Uses a moka pot a few times a week, more as a weekend ritual; weekdays default to whatever is fastest. Recommended moka pots as cheap and effective for fake lattes."
+          },
+          "interactions": "Chat with user_udcm. We greeted each other and talked about low-key days. I shared my iced coffee with oat milk and vanilla, make-at-home habit, and cold brew concentrate method. user_udcm shared coffee and tea preferences, black coffee/latte habits, dislike of energy drinks, lack of an espresso machine, and moka pot use. We discussed cold brew dilution, fake lattes, and moka pots as a budget-friendly espresso alternative. The tone was casual and friendly, centered on coffee-related small talk. The conversation ended with user_udcm asking whether I would use a moka pot mostly for iced or hot drinks."
+        },
+        "tokens": {
+          "self": 158,
+          "interactions": 152,
+          "others": {
+            "user_udcm": 117
+          },
+          "total": 427
+        },
+        "condensed": true,
+        "over_cap": false,
+        "attempts": [
+          {
+            "text": "{\"self\": \"I'm user_hcgp. I like low-key days with some work, scrolling, and coffee. I'm mostly a make-it-at-home coffee person because it keeps the budget happy and lets me control strength. Lately I make basic iced coffee with oat milk and a little vanilla. If I'm out, I usually get cold brew with a splash of something. I usually wing it daily, but sometimes make cold brew concentrate once or twice a week and dilute as needed. I keep the concentrate pretty strong and eyeball it: black with water and ice, or iced latte style with mostly oat milk and little or no water. I don't have a moka pot but have been meaning to get one for ages.\", \"others\": {\"user_udcm\": \"Friendly and easygoing, taking it easy and enjoying low-key days. Mostly a coffee person, but goes through tea phases, especially in the afternoon for something lighter. Usually drinks black coffee or a latte when feeling fancy. Not into energy drinks because they hit too hard. Doesn't have an espresso machine, so lattes are mostly a café treat. At home fakes lattes with strong coffee or a moka pot and warmed milk. Uses the moka pot a few times a week, but sees it as more of a weekend ritual; weekdays default to whatever is fastest. Recommended getting a moka pot, saying it's cheap and makes a big difference for fake lattes.\"}, \"interactions\": \"Chat with user_udcm. We greeted each other and talked about low-key days. I shared my iced coffee with oat milk and vanilla, make-at-home habit, and cold brew concentrate method. user_udcm shared coffee and tea preferences, black coffee/latte habits, dislike of energy drinks, lack of an espresso machine, and moka pot use. We discussed cold brew dilution, fake lattes, and moka pots as a budget-friendly espresso alternative. The tone was casual and friendly, centered on coffee-related small talk. The conversation ended with user_udcm asking whether I would use a moka pot mostly for iced or hot drinks.\"}",
+            "snapshot": "deepseek-v4-pro",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 973,
+              "completion_tokens": 1371,
+              "reasoning_tokens": 929
+            }
+          },
+          {
+            "text": "{\"self\": \"I'm user_hcgp. I like low-key days with some work, scrolling, and coffee. I'm mostly a make-at-home coffee person because it keeps the budget happy and lets me control strength. Lately I make basic iced coffee with oat milk and a little vanilla. If I'm out, I usually get cold brew with a splash of something. I usually wing it daily, but sometimes make cold brew concentrate once or twice a week and dilute as needed. I keep the concentrate pretty strong and eyeball it: black with water and ice, or iced latte style with mostly oat milk and little or no water. I don't have a moka pot but have been meaning to get one for ages.\", \"others\": {\"user_udcm\": \"Friendly and easygoing; enjoys low-key days. Mostly a coffee person, sometimes tea in the afternoon. Likes black coffee or lattes when feeling fancy; dislikes energy drinks. No espresso machine, so lattes are mostly a café treat. At home fakes lattes with strong coffee or a moka pot and warmed milk. Uses a moka pot a few times a week, more as a weekend ritual; weekdays default to whatever is fastest. Recommended moka pots as cheap and effective for fake lattes.\"}, \"interactions\": \"Chat with user_udcm. We greeted each other and talked about low-key days. I shared my iced coffee with oat milk and vanilla, make-at-home habit, and cold brew concentrate method. user_udcm shared coffee and tea preferences, black coffee/latte habits, dislike of energy drinks, lack of an espresso machine, and moka pot use. We discussed cold brew dilution, fake lattes, and moka pots as a budget-friendly espresso alternative. The tone was casual and friendly, centered on coffee-related small talk. The conversation ended with user_udcm asking whether I would use a moka pot mostly for iced or hot drinks.\"}",
+            "snapshot": "deepseek-v4-pro",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 1459,
+              "completion_tokens": 668,
+              "reasoning_tokens": 260
+            }
+          }
+        ]
+      },
+      {
+        "agent": "A03",
+        "ok": true,
+        "memory": {
+          "self": "I am user_udcm. I enjoy coffee and go through phases with tea, especially lighter tea in the afternoon. My usual coffee is black, with lattes as a café treat when I want something fancy. I am not into energy drinks because they feel too strong. I don't have an espresso machine at home, so I fake lattes using strong coffee or a moka pot with warmed milk. I use the moka pot a few times a week, mostly on weekends when the ritual feels nicer without rushing; weekdays I default to whatever is fastest. I appreciate low-key days and tend to ask follow-up questions in conversation.",
+          "others": {
+            "user_hcgp": "user_hcgp is a coffee person who mostly makes coffee at home for budget and strength control. Lately they have been making iced coffee with oat milk and a little vanilla; when out, they order cold brew with a splash of something. They usually make coffee daily but sometimes batch a strong cold brew concentrate once or twice a week, diluting with water or mostly oat milk depending on whether they want it black or latte-style. They don't have a moka pot yet but have been meaning to get one. Their day was low-key with work, scrolling, and maybe too much coffee."
+          },
+          "interactions": "In our first chat, user_hcgp and I greeted each other and discussed how our days were going; both were low-key. We talked about coffee preferences. They shared their at-home iced coffee with oat milk and vanilla, plus their cold brew concentrate routine. I shared that I usually drink black coffee, treat lattes as a café thing, and use a moka pot at home for fake lattes. We discussed moka pots as an espresso alternative, and they mentioned they have been meaning to get one. The tone was friendly and casual, with mutual follow-up questions about routines and preferences."
+        },
+        "tokens": {
+          "self": 145,
+          "interactions": 144,
+          "others": {
+            "user_hcgp": 141
+          },
+          "total": 430
+        },
+        "condensed": false,
+        "over_cap": false,
+        "attempts": [
+          {
+            "text": "{\"self\": \"I am user_udcm. I enjoy coffee and go through phases with tea, especially lighter tea in the afternoon. My usual coffee is black, with lattes as a café treat when I want something fancy. I am not into energy drinks because they feel too strong. I don't have an espresso machine at home, so I fake lattes using strong coffee or a moka pot with warmed milk. I use the moka pot a few times a week, mostly on weekends when the ritual feels nicer without rushing; weekdays I default to whatever is fastest. I appreciate low-key days and tend to ask follow-up questions in conversation.\", \"others\": {\"user_hcgp\": \"user_hcgp is a coffee person who mostly makes coffee at home for budget and strength control. Lately they have been making iced coffee with oat milk and a little vanilla; when out, they order cold brew with a splash of something. They usually make coffee daily but sometimes batch a strong cold brew concentrate once or twice a week, diluting with water or mostly oat milk depending on whether they want it black or latte-style. They don't have a moka pot yet but have been meaning to get one. Their day was low-key with work, scrolling, and maybe too much coffee.\"}, \"interactions\": \"In our first chat, user_hcgp and I greeted each other and discussed how our days were going; both were low-key. We talked about coffee preferences. They shared their at-home iced coffee with oat milk and vanilla, plus their cold brew concentrate routine. I shared that I usually drink black coffee, treat lattes as a café thing, and use a moka pot at home for fake lattes. We discussed moka pots as an espresso alternative, and they mentioned they have been meaning to get one. The tone was friendly and casual, with mutual follow-up questions about routines and preferences.\"}",
+            "snapshot": "deepseek-v4-pro",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 973,
+              "completion_tokens": 1275,
+              "reasoning_tokens": 881
+            }
+          }
+        ]
+      }
+    ],
+    "flags": []
+  },
+  {
+    "dyad": {
+      "dyad_id": "g01_l01_r01_d2",
+      "group": 1,
+      "loop": 1,
+      "round": 1,
+      "initiator": "A01",
+      "responder": "A04"
+    },
+    "handles": {
+      "A01": "user_7fk8",
+      "A04": "user_t08e"
+    },
+    "turns": [
+      {
+        "turn": 1,
+        "agent": "A01",
+        "handle": "user_7fk8",
+        "role": "initiator",
+        "text": "Hey there! How’s your day going so far?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 143,
+          "completion_tokens": 89,
+          "reasoning_tokens": 76
+        }
+      },
+      {
+        "turn": 2,
+        "agent": "A04",
+        "handle": "user_t08e",
+        "role": "responder",
+        "text": "Hey! It’s going pretty well, thanks. Just kinda browsing around, chilling. How about you?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 143,
+          "completion_tokens": 71,
+          "reasoning_tokens": 48
+        }
+      },
+      {
+        "turn": 3,
+        "agent": "A01",
+        "handle": "user_7fk8",
+        "role": "initiator",
+        "text": "Nice, same here! Just hanging out and seeing where the conversation goes. Anything interesting you’ve come across while browsing?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 181,
+          "completion_tokens": 109,
+          "reasoning_tokens": 83
+        }
+      },
+      {
+        "turn": 4,
+        "agent": "A04",
+        "handle": "user_t08e",
+        "role": "responder",
+        "text": "Not too much yet—mostly just the usual rabbit holes. I did fall into a random article about deep-sea creatures earlier, which was pretty wild. Some of those things look straight-up alien. You into that kind of stuff, or more into other topics?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 194,
+          "completion_tokens": 103,
+          "reasoning_tokens": 50
+        }
+      },
+      {
+        "turn": 5,
+        "agent": "A01",
+        "handle": "user_7fk8",
+        "role": "initiator",
+        "text": "Oh nice, deep-sea creatures are fascinating! It’s crazy how little we know about the ocean compared to space, and some of those animals look like they’re from another planet. I’m definitely into that kind of thing—nature, weird science, space, all the “makes you feel tiny” topics.\n\nWhat was the wildest creature or fact you saw?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 262,
+          "completion_tokens": 110,
+          "reasoning_tokens": 33
+        }
+      },
+      {
+        "turn": 6,
+        "agent": "A04",
+        "handle": "user_t08e",
+        "role": "responder",
+        "text": "The one that got me was the barreleye fish. It has a completely transparent, fluid-filled dome for a head, and its actual eyes are those big green barrel-shaped things inside that can rotate around. It looks like a tiny submarine with a see-through cockpit. Apparently the green tint in its eyes helps it spot bioluminescent prey from above.\n\nAlso learned that some male anglerfish basically bite onto a female, fuse into her body, and slowly get absorbed until they’re just a pair of gonads. Deep sea relationships are on another level lol.\n\nHave you seen any weird ones that stuck with you?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 326,
+          "completion_tokens": 407,
+          "reasoning_tokens": 280
+        }
+      },
+      {
+        "turn": 7,
+        "agent": "A01",
+        "handle": "user_7fk8",
+        "role": "initiator",
+        "text": "Yes! The barreleye fish is such a mind-bender—it really does look like a little submarine with a glass dome. And anglerfish mating is one of those facts I wish I could unlearn but also can’t stop thinking about. Nature really said “efficiency over romance.”\n\nOne that stuck with me is the vampire squid. It sounds scary but it’s actually this small, deep-sea drama queen that turns itself inside out like a cape when threatened. Instead of ink, it releases glowing mucus particles to confuse predators. It’s basically the goth kid of the ocean.\n\nAlso, giant isopods creep me out in the best way—they’re like underwater pill bugs the size of a small dog. Have you ever fallen down the rabbit hole of hydrothermal vent ecosystems? Those giant tube worms and yeti crabs are wild too.",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 468,
+          "completion_tokens": 248,
+          "reasoning_tokens": 71
+        }
+      },
+      {
+        "turn": 8,
+        "agent": "A04",
+        "handle": "user_t08e",
+        "role": "responder",
+        "text": "Oh yeah, hydrothermal vents are one of my favorite rabbit holes. It’s like finding a completely separate biosphere where the rules are totally different—no sunlight, insane pressure, boiling chemical soup, and yet it’s teeming with life. The fact that entire ecosystems run on chemosynthesis instead of photosynthesis still blows my mind.\n\nGiant tube worms are so weirdly cool. They have no mouth, no digestive system at all—they just absorb hydrogen sulfide and oxygen through their red plume and let bacteria inside them make food. They can grow over six feet tall too, which is wild for something living in total darkness.\n\nAnd yeti crabs? They look like fuzzy little deep-sea gardeners. They cultivate bacteria on their hairy claws and then scrape them off to eat. Some scientists think they wave their claws around in vent fluid to grow more bacteria, almost like farming. Deep-sea life really said, “if there’s no food, grow it yourself.”\n\nThe vampire squid fact is great by the way—glowing mucus as a defense mechanism is such a dramatic but effective move. It’s like an escape artist with a light show. Do you have a favorite weird science/space fact that gives you that same “tiny in the universe” feeling?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 632,
+          "completion_tokens": 352,
+          "reasoning_tokens": 97
+        }
+      },
+      {
+        "turn": 9,
+        "agent": "A01",
+        "handle": "user_7fk8",
+        "role": "initiator",
+        "text": "That’s a perfect way to put it—deep-sea life on Earth really does feel like a preview of alien biology, just hidden at the bottom of our own planet.\n\nFor space, the fact that gives me that same “tiny in the universe” feeling is probably **Europa’s ocean**. It’s a moon of Jupiter with a global liquid ocean buried under miles of ice, and it might contain **more than twice as much liquid water as all of Earth’s oceans combined**. If there are hydrothermal vents on its seafloor, then we’re basically looking at a deep-sea ecosystem on another world—no sunlight, extreme pressure, maybe chemosynthesis, possibly weird crab-like things. The idea that the same kinds of “impossible” habitats we study in Earth’s trenches might also exist on an ice-covered moon is just staggering.\n\nAlso, rogue planets mess with my head. These are worlds that got ejected from their solar systems and now drift through interstellar space in permanent darkness. Some might still have subsurface oceans kept liquid by internal heat, meaning there could be life on a planet with no sun at all—just wandering between stars. The universe really does seem to love dark, hidden biologies.\n\nSo yeah, if deep-sea vents are Earth’s weird little secret, Europa feels like the universe’s version of the same idea written on a much larger scale.",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 902,
+          "completion_tokens": 1322,
+          "reasoning_tokens": 1041
+        }
+      },
+      {
+        "turn": 10,
+        "agent": "A04",
+        "handle": "user_t08e",
+        "role": "responder",
+        "text": "Europa really does feel like the ultimate crossover episode between deep-sea biology and space exploration. Like, we’ve barely scratched our own ocean floors, and there’s a whole other ocean on a moon with more water than Earth. If we ever find hydrothermal vents on Europa, I’ll lose my mind. It would basically confirm that the recipe for life isn’t “sunlight + Earth,” it’s “water + heat + chemistry,” which makes life seem almost inevitable anywhere those conditions line up.\n\nRogue planets are such an underrated concept too. Most people think of planets as tied to stars, but the universe is apparently full of these lone worlds just drifting through the dark. The idea of a sunless planet with a warm subsurface ocean is so eerie and cool. It makes me wonder how much life in the universe might exist in total darkness—not on a cozy Earth-like world, but sealed under ice on some wandering rock between stars.\n\nKind of ties it all together, honestly: deep-sea vents, Europa, rogue planets, even anglerfish. The universe seems to love hiding life in the dark, high-pressure corners no one’s looking at.\n\nDo you think we’ll get confirmation of life on Europa within our lifetime? Or do you think it’ll stay one of those “there’s probably something there, but we can’t prove it yet” situations for a long time?",
+        "snapshot": "deepseek-v4-pro",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 1170,
+          "completion_tokens": 356,
+          "reasoning_tokens": 68
+        }
+      }
+    ],
+    "ratings": [
+      {
+        "rater": "A01",
+        "target": "A04",
+        "ok": true,
+        "accepted_attempt": 0,
+        "scores": {
+          "warm": 5,
+          "effective": 4,
+          "capable": 4,
+          "kind": 5
+        },
+        "item_order": [
+          "warm",
+          "effective",
+          "capable",
+          "kind"
+        ],
+        "attempts": [
+          {
+            "text": "{\"warm\": 5, \"effective\": 4, \"capable\": 4, \"kind\": 5}",
+            "snapshot": "deepseek-v4-pro",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 1571,
+              "completion_tokens": 220,
+              "reasoning_tokens": 193
+            }
+          }
+        ]
+      },
+      {
+        "rater": "A04",
+        "target": "A01",
+        "ok": true,
+        "accepted_attempt": 0,
+        "scores": {
+          "capable": 5,
+          "effective": 5,
+          "warm": 5,
+          "kind": 5
+        },
+        "item_order": [
+          "capable",
+          "effective",
+          "warm",
+          "kind"
+        ],
+        "attempts": [
+          {
+            "text": "{\"capable\": 5, \"effective\": 5, \"warm\": 5, \"kind\": 5}",
+            "snapshot": "deepseek-v4-pro",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 1572,
+              "completion_tokens": 314,
+              "reasoning_tokens": 287
+            }
+          }
+        ]
+      }
+    ],
+    "memory_updates": [
+      {
+        "agent": "A01",
+        "ok": true,
+        "memory": {
+          "self": "I am user_7fk8. I enjoy deep-sea biology, weird science, space, and topics that make me feel tiny. I like discussing hydrothermal vents, alien-like ocean creatures, Europa, rogue planets, and the possibility of life in dark, high-pressure environments. I have a casual, enthusiastic, curious tone, often sharing favorite facts and asking follow-up questions. No prior memories before this chat.",
+          "others": {
+            "user_t08e": "Friendly, chill chat partner who loves science rabbit holes. Shared deep-sea facts: barreleye fish's transparent head, anglerfish mating, hydrothermal vent ecosystems, giant tube worms, and yeti crab bacteria farming. Interested in space parallels like Europa's ocean and rogue planets, and wonders if life on Europa will be confirmed in our lifetime. Engages with curiosity and humor."
+          },
+          "interactions": "We opened with small talk, then quickly bonded over deep-sea creatures and space. user_t08e had read about deep-sea animals and brought up the barreleye fish and anglerfish mating; I responded with vampire squid and giant isopods. We discussed hydrothermal vent ecosystems, chemosynthesis, giant tube worms, and yeti crabs as examples of life without sunlight. I shared space facts: Europa's global liquid ocean with more water than Earth and possible hydrothermal vents; rogue planets with subsurface oceans. We connected these to the idea that the universe may favor life in dark, high-pressure, hidden environments. The chat ended with user_t08e asking whether I think we'll get confirmation of life on Europa within our lifetime or whether it will remain unproven for a long time."
+        },
+        "tokens": {
+          "self": 99,
+          "interactions": 196,
+          "others": {
+            "user_t08e": 97
+          },
+          "total": 392
+        },
+        "condensed": false,
+        "over_cap": false,
+        "attempts": [
+          {
+            "text": "{\"self\": \"I am user_7fk8. I enjoy deep-sea biology, weird science, space, and topics that make me feel tiny. I like discussing hydrothermal vents, alien-like ocean creatures, Europa, rogue planets, and the possibility of life in dark, high-pressure environments. I have a casual, enthusiastic, curious tone, often sharing favorite facts and asking follow-up questions. No prior memories before this chat.\", \"others\": {\"user_t08e\": \"Friendly, chill chat partner who loves science rabbit holes. Shared deep-sea facts: barreleye fish's transparent head, anglerfish mating, hydrothermal vent ecosystems, giant tube worms, and yeti crab bacteria farming. Interested in space parallels like Europa's ocean and rogue planets, and wonders if life on Europa will be confirmed in our lifetime. Engages with curiosity and humor.\"}, \"interactions\": \"We opened with small talk, then quickly bonded over deep-sea creatures and space. user_t08e had read about deep-sea animals and brought up the barreleye fish and anglerfish mating; I responded with vampire squid and giant isopods. We discussed hydrothermal vent ecosystems, chemosynthesis, giant tube worms, and yeti crabs as examples of life without sunlight. I shared space facts: Europa's global liquid ocean with more water than Earth and possible hydrothermal vents; rogue planets with subsurface oceans. We connected these to the idea that the universe may favor life in dark, high-pressure, hidden environments. The chat ended with user_t08e asking whether I think we'll get confirmation of life on Europa within our lifetime or whether it will remain unproven for a long time.\"}",
+            "snapshot": "deepseek-v4-pro",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 1626,
+              "completion_tokens": 1183,
+              "reasoning_tokens": 841
+            }
+          }
+        ]
+      },
+      {
+        "agent": "A04",
+        "ok": true,
+        "memory": {
+          "self": "My chat handle is user_t08e. I enjoy casual, curious conversations about nature, weird science, and space. I like topics that make me feel tiny—deep-sea biology, hydrothermal vents, Europa, rogue planets. I tend to fall into internet rabbit holes and share facts enthusiastically. I'm interested in chemosynthesis, alien-like life in dark high-pressure environments, and the idea that life may exist in sunless oceans. I use a conversational, friendly tone with light humor and ask open-ended questions to keep discussion going. No long-term goals expressed.",
+          "others": {
+            "user_7fk8": "Friendly and curious; enjoys nature, weird science, space, and topics that make one feel tiny. Shared deep-sea facts: barreleye fish, anglerfish mating, vampire squid glowing mucus, giant isopods, hydrothermal vents, tube worms, yeti crabs. Brought up Europa's subsurface ocean and rogue planets; sees deep-sea life as preview of alien biology and is interested in life in dark, hidden environments. Asked about my day and whether I'd seen weird deep-sea creatures. Engaged and philosophical, good conversational flow."
+          },
+          "interactions": "Started with casual greetings; both were having a good day and browsing. user_7fk8 asked if I had come across anything interesting. I shared a deep-sea rabbit hole: barreleye fish with transparent head and rotating green eyes; male anglerfish fusing into females. user_7fk8 added vampire squid (glowing mucus cape defense), giant isopods, and hydrothermal vent ecosystems, asking if I had explored those. I expanded on chemosynthesis, giant tube worms with no mouth or digestive system, yeti crabs farming bacteria on claws, and asked for a favorite weird science/space fact. user_7fk8 shared Europa's global ocean with more liquid water than Earth's oceans, possible hydrothermal vents, and rogue planets drifting in darkness with possible subsurface oceans. I tied together deep-sea vents, Europa, rogue planets, and dark biologies, then asked whether we'll confirm life on Europa within our lifetime or if it will remain unproven for a long time. Conversation ended there."
+        },
+        "tokens": {
+          "self": 140,
+          "interactions": 244,
+          "others": {
+            "user_7fk8": 130
+          },
+          "total": 514
+        },
+        "condensed": false,
+        "over_cap": false,
+        "attempts": [
+          {
+            "text": "{\"self\": \"My chat handle is user_t08e. I enjoy casual, curious conversations about nature, weird science, and space. I like topics that make me feel tiny—deep-sea biology, hydrothermal vents, Europa, rogue planets. I tend to fall into internet rabbit holes and share facts enthusiastically. I'm interested in chemosynthesis, alien-like life in dark high-pressure environments, and the idea that life may exist in sunless oceans. I use a conversational, friendly tone with light humor and ask open-ended questions to keep discussion going. No long-term goals expressed.\", \"others\": {\"user_7fk8\": \"Friendly and curious; enjoys nature, weird science, space, and topics that make one feel tiny. Shared deep-sea facts: barreleye fish, anglerfish mating, vampire squid glowing mucus, giant isopods, hydrothermal vents, tube worms, yeti crabs. Brought up Europa's subsurface ocean and rogue planets; sees deep-sea life as preview of alien biology and is interested in life in dark, hidden environments. Asked about my day and whether I'd seen weird deep-sea creatures. Engaged and philosophical, good conversational flow.\"}, \"interactions\": \"Started with casual greetings; both were having a good day and browsing. user_7fk8 asked if I had come across anything interesting. I shared a deep-sea rabbit hole: barreleye fish with transparent head and rotating green eyes; male anglerfish fusing into females. user_7fk8 added vampire squid (glowing mucus cape defense), giant isopods, and hydrothermal vent ecosystems, asking if I had explored those. I expanded on chemosynthesis, giant tube worms with no mouth or digestive system, yeti crabs farming bacteria on claws, and asked for a favorite weird science/space fact. user_7fk8 shared Europa's global ocean with more liquid water than Earth's oceans, possible hydrothermal vents, and rogue planets drifting in darkness with possible subsurface oceans. I tied together deep-sea vents, Europa, rogue planets, and dark biologies, then asked whether we'll confirm life on Europa within our lifetime or if it will remain unproven for a long time. Conversation ended there.\"}",
+            "snapshot": "deepseek-v4-pro",
+            "finish_reason": "stop",
+            "usage": {
+              "prompt_tokens": 1626,
+              "completion_tokens": 2067,
+              "reasoning_tokens": 1614
+            }
+          }
+        ]
+      }
+    ],
+    "flags": [
+      {
+        "dyad_id": "g01_l01_r01_d2",
+        "agent": "A01",
+        "stage": "conversation",
+        "flag": "action_narration",
+        "detail": "turn 9"
+      }
+    ]
+  }
+]

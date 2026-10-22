@@ -1,0 +1,56 @@
+{
+  "A01": {
+    "self": "(mock) I am curious and like talking about old movies.",
+    "others": {
+      "user_qb3i": "(mock) seemed interested in old movies.",
+      "user_t08e": "(mock) seemed interested in old movies.",
+      "user_udcm": "(mock) seemed interested in old movies."
+    },
+    "interactions": "(mock) Recently talked about old movies."
+  },
+  "A02": {
+    "self": "(mock) I am curious and like talking about hiking.",
+    "others": {
+      "user_bkk4": "(mock) seemed interested in hiking.",
+      "user_t08e": "(mock) seemed interested in hiking.",
+      "user_udcm": "(mock) seemed interested in hiking."
+    },
+    "interactions": "(mock) Recently talked about hiking."
+  },
+  "A03": {
+    "self": "(mock) I am curious and like talking about cooking.",
+    "others": {
+      "user_7fk8": "(mock) seemed interested in cooking.",
+      "user_hcgp": "(mock) seemed interested in cooking.",
+      "user_qb3i": "(mock) seemed interested in cooking."
+    },
+    "interactions": "(mock) Recently talked about cooking."
+  },
+  "A04": {
+    "self": "(mock) I am curious and like talking about hiking.",
+    "others": {
+      "user_7fk8": "(mock) seemed interested in hiking.",
+      "user_bkk4": "(mock) seemed interested in hiking.",
+      "user_hcgp": "(mock) seemed interested in hiking."
+    },
+    "interactions": "(mock) Recently talked about hiking."
+  },
+  "A05": {
+    "self": "(mock) I am curious and like talking about the weather.",
+    "others": {
+      "user_7fk8": "(mock) seemed interested in the weather.",
+      "user_bkk4": "(mock) seemed interested in the weather.",
+      "user_udcm": "(mock) seemed interested in the weather."
+    },
+    "interactions": "(mock) Recently talked about the weather."
+  },
+  "A06": {
+    "self": "(mock) I am curious and like talking about the weather.",
+    "others": {
+      "user_hcgp": "(mock) seemed interested in the weather.",
+      "user_qb3i": "(mock) seemed interested in the weather.",
+      "user_t08e": "(mock) seemed interested in the weather."
+    },
+    "interactions": "(mock) Recently talked about the weather."
+  }
+}

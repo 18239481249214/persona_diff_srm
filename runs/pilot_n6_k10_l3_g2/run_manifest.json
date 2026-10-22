@@ -1,0 +1,90 @@
+{
+  "run_name": "pilot_n6_k10_l3_g2",
+  "design_digest": "e498a8984ddc",
+  "config": {
+    "run_name": "pilot_n6_k10_l3_g2",
+    "runs_dir": "runs",
+    "seed": 20261008,
+    "group_size": 6,
+    "n_groups": 2,
+    "k": 10,
+    "n_loops": 3,
+    "tell_repeat_meetings": false,
+    "memory_caps": {
+      "self": 400,
+      "others_per_partner": 150,
+      "interactions": 500
+    },
+    "rating_scale": [
+      1,
+      5
+    ],
+    "items": {
+      "warmth": [
+        "warm",
+        "kind"
+      ],
+      "competence": [
+        "capable",
+        "effective"
+      ]
+    },
+    "measures": [
+      "measures/bfi2.json"
+    ],
+    "model": {
+      "provider": "deepseek",
+      "base_url": "https://api.deepseek.com",
+      "api_key_env": "DEEPSEEK_API_KEY",
+      "model": "deepseek-v4-pro",
+      "temperature": null,
+      "extra_body": {}
+    },
+    "max_tokens": {
+      "conversation": 3072,
+      "rating": 4096,
+      "measure": 6144,
+      "memory": 6144
+    },
+    "parallel_groups": 4
+  },
+  "provenance": {
+    "model": "deepseek-v4-pro",
+    "provider": "deepseek",
+    "temperature": "provider_default",
+    "reasoning": "provider_default"
+  },
+  "dry_run": false,
+  "measures": [
+    {
+      "name": "bfi2",
+      "definition": {
+        "name": "bfi2",
+        "description": "Big Five Inventory-2 (Soto & John, 2017). 60 items, 1-5 agreement scale. Scoring is done downstream, not by the runner.",
+        "instructions": "Below are statements describing characteristics that may or may not apply to you. Indicate how much you agree or disagree that each statement describes you.",
+        "item_stem": "I am someone who...",
+        "scale": {
+          "min": 1,
+          "max": 5,
+          "labels": {
+            "1": "Disagree strongly",
+            "2": "Disagree a little",
+            "3": "Neutral; no opinion",
+            "4": "Agree a little",
+            "5": "Agree strongly"
+          }
+        },
+        "items_file": "data/bfi2_items.csv",
+        "expected_items": 60,
+        "randomize_order": true,
+        "max_tokens": null
+      },
+      "items_sha256": "0747d7afdf233cc598db67aff4dfb11fe77af8a8e9e78fe71274e6372f727901",
+      "placeholder": false
+    }
+  ],
+  "prompts_sha256": "726f12a36fca60c89a8262de823af07dec7b2d6cc340d1d4a584d0257a10efa0",
+  "code_version": "0.4.0",
+  "python": "3.14.3",
+  "created_utc": "2026-10-22T14:44:18+00:00"
+}

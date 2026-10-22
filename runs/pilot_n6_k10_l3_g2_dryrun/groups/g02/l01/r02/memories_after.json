@@ -1,0 +1,50 @@
+{
+  "A01": {
+    "self": "(mock) I am curious and like talking about the weather.",
+    "others": {
+      "user_mnt8": "(mock) seemed interested in the weather.",
+      "user_vgj4": "(mock) seemed interested in the weather."
+    },
+    "interactions": "(mock) Recently talked about the weather."
+  },
+  "A02": {
+    "self": "(mock) I am curious and like talking about cooking.",
+    "others": {
+      "user_l7h6": "(mock) seemed interested in cooking.",
+      "user_nude": "(mock) seemed interested in cooking."
+    },
+    "interactions": "(mock) Recently talked about cooking."
+  },
+  "A03": {
+    "self": "(mock) I am curious and like talking about music.",
+    "others": {
+      "user_e2wp": "(mock) seemed interested in music.",
+      "user_mnt8": "(mock) seemed interested in music."
+    },
+    "interactions": "(mock) Recently talked about music."
+  },
+  "A04": {
+    "self": "(mock) I am curious and like talking about music.",
+    "others": {
+      "user_6as1": "(mock) seemed interested in music.",
+      "user_nude": "(mock) seemed interested in music."
+    },
+    "interactions": "(mock) Recently talked about music."
+  },
+  "A05": {
+    "self": "(mock) I am curious and like talking about space travel.",
+    "others": {
+      "user_e2wp": "(mock) seemed interested in space travel.",
+      "user_vgj4": "(mock) seemed interested in space travel."
+    },
+    "interactions": "(mock) Recently talked about space travel."
+  },
+  "A06": {
+    "self": "(mock) I am curious and like talking about cooking.",
+    "others": {
+      "user_6as1": "(mock) seemed interested in cooking.",
+      "user_l7h6": "(mock) seemed interested in cooking."
+    },
+    "interactions": "(mock) Recently talked about cooking."
+  }
+}

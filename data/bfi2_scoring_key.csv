@@ -1,0 +1,61 @@
+﻿item_id,item_number,domain,facet,reverse_keyed
+bfi01,1,Extraversion,Sociability,0
+bfi02,2,Agreeableness,Compassion,0
+bfi03,3,Conscientiousness,Organization,1
+bfi04,4,Negative Emotionality,Anxiety,1
+bfi05,5,Open-Mindedness,Aesthetic Sensitivity,1
+bfi06,6,Extraversion,Assertiveness,0
+bfi07,7,Agreeableness,Respectfulness,0
+bfi08,8,Conscientiousness,Productiveness,1
+bfi09,9,Negative Emotionality,Depression,1
+bfi10,10,Open-Mindedness,Intellectual Curiosity,0
+bfi11,11,Extraversion,Energy Level,1
+bfi12,12,Agreeableness,Trust,1
+bfi13,13,Conscientiousness,Responsibility,0
+bfi14,14,Negative Emotionality,Emotional Volatility,0
+bfi15,15,Open-Mindedness,Creative Imagination,0
+bfi16,16,Extraversion,Sociability,1
+bfi17,17,Agreeableness,Compassion,1
+bfi18,18,Conscientiousness,Organization,0
+bfi19,19,Negative Emotionality,Anxiety,0
+bfi20,20,Open-Mindedness,Aesthetic Sensitivity,0
+bfi21,21,Extraversion,Assertiveness,0
+bfi22,22,Agreeableness,Respectfulness,1
+bfi23,23,Conscientiousness,Productiveness,1
+bfi24,24,Negative Emotionality,Depression,1
+bfi25,25,Open-Mindedness,Intellectual Curiosity,1
+bfi26,26,Extraversion,Energy Level,1
+bfi27,27,Agreeableness,Trust,0
+bfi28,28,Conscientiousness,Responsibility,1
+bfi29,29,Negative Emotionality,Emotional Volatility,1
+bfi30,30,Open-Mindedness,Creative Imagination,1
+bfi31,31,Extraversion,Sociability,1
+bfi32,32,Agreeableness,Compassion,0
+bfi33,33,Conscientiousness,Organization,0
+bfi34,34,Negative Emotionality,Anxiety,0
+bfi35,35,Open-Mindedness,Aesthetic Sensitivity,0
+bfi36,36,Extraversion,Assertiveness,1
+bfi37,37,Agreeableness,Respectfulness,1
+bfi38,38,Conscientiousness,Productiveness,0
+bfi39,39,Negative Emotionality,Depression,0
+bfi40,40,Open-Mindedness,Intellectual Curiosity,0
+bfi41,41,Extraversion,Energy Level,0
+bfi42,42,Agreeableness,Trust,1
+bfi43,43,Conscientiousness,Responsibility,0
+bfi44,44,Negative Emotionality,Emotional Volatility,1
+bfi45,45,Open-Mindedness,Creative Imagination,1
+bfi46,46,Extraversion,Sociability,0
+bfi47,47,Agreeableness,Compassion,1
+bfi48,48,Conscientiousness,Organization,1
+bfi49,49,Negative Emotionality,Anxiety,1
+bfi50,50,Open-Mindedness,Aesthetic Sensitivity,1
+bfi51,51,Extraversion,Assertiveness,1
+bfi52,52,Agreeableness,Respectfulness,0
+bfi53,53,Conscientiousness,Productiveness,0
+bfi54,54,Negative Emotionality,Depression,0
+bfi55,55,Open-Mindedness,Intellectual Curiosity,1
+bfi56,56,Extraversion,Energy Level,0
+bfi57,57,Agreeableness,Trust,0
+bfi58,58,Conscientiousness,Responsibility,1
+bfi59,59,Negative Emotionality,Emotional Volatility,0
+bfi60,60,Open-Mindedness,Creative Imagination,0

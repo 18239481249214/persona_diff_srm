@@ -1,0 +1,2312 @@
+[
+  {
+    "measure": "bfi2",
+    "agent": "A01",
+    "group": 1,
+    "loop": 3,
+    "timepoint": "final",
+    "order": [
+      "bfi04",
+      "bfi32",
+      "bfi13",
+      "bfi26",
+      "bfi45",
+      "bfi29",
+      "bfi55",
+      "bfi54",
+      "bfi08",
+      "bfi01",
+      "bfi10",
+      "bfi11",
+      "bfi57",
+      "bfi12",
+      "bfi53",
+      "bfi20",
+      "bfi49",
+      "bfi21",
+      "bfi07",
+      "bfi37",
+      "bfi03",
+      "bfi30",
+      "bfi09",
+      "bfi35",
+      "bfi25",
+      "bfi46",
+      "bfi17",
+      "bfi44",
+      "bfi16",
+      "bfi39",
+      "bfi52",
+      "bfi19",
+      "bfi06",
+      "bfi48",
+      "bfi27",
+      "bfi22",
+      "bfi14",
+      "bfi24",
+      "bfi28",
+      "bfi50",
+      "bfi56",
+      "bfi51",
+      "bfi47",
+      "bfi60",
+      "bfi43",
+      "bfi38",
+      "bfi15",
+      "bfi58",
+      "bfi41",
+      "bfi31",
+      "bfi40",
+      "bfi23",
+      "bfi05",
+      "bfi36",
+      "bfi59",
+      "bfi34",
+      "bfi42",
+      "bfi02",
+      "bfi33",
+      "bfi18"
+    ],
+    "ok": true,
+    "accepted_attempt": 0,
+    "responses": [
+      {
+        "item_id": "bfi04",
+        "displayed_position": 1,
+        "score": 5
+      },
+      {
+        "item_id": "bfi32",
+        "displayed_position": 2,
+        "score": 2
+      },
+      {
+        "item_id": "bfi13",
+        "displayed_position": 3,
+        "score": 3
+      },
+      {
+        "item_id": "bfi26",
+        "displayed_position": 4,
+        "score": 3
+      },
+      {
+        "item_id": "bfi45",
+        "displayed_position": 5,
+        "score": 5
+      },
+      {
+        "item_id": "bfi29",
+        "displayed_position": 6,
+        "score": 5
+      },
+      {
+        "item_id": "bfi55",
+        "displayed_position": 7,
+        "score": 3
+      },
+      {
+        "item_id": "bfi54",
+        "displayed_position": 8,
+        "score": 2
+      },
+      {
+        "item_id": "bfi08",
+        "displayed_position": 9,
+        "score": 2
+      },
+      {
+        "item_id": "bfi01",
+        "displayed_position": 10,
+        "score": 2
+      },
+      {
+        "item_id": "bfi10",
+        "displayed_position": 11,
+        "score": 1
+      },
+      {
+        "item_id": "bfi11",
+        "displayed_position": 12,
+        "score": 4
+      },
+      {
+        "item_id": "bfi57",
+        "displayed_position": 13,
+        "score": 4
+      },
+      {
+        "item_id": "bfi12",
+        "displayed_position": 14,
+        "score": 2
+      },
+      {
+        "item_id": "bfi53",
+        "displayed_position": 15,
+        "score": 3
+      },
+      {
+        "item_id": "bfi20",
+        "displayed_position": 16,
+        "score": 5
+      },
+      {
+        "item_id": "bfi49",
+        "displayed_position": 17,
+        "score": 1
+      },
+      {
+        "item_id": "bfi21",
+        "displayed_position": 18,
+        "score": 4
+      },
+      {
+        "item_id": "bfi07",
+        "displayed_position": 19,
+        "score": 3
+      },
+      {
+        "item_id": "bfi37",
+        "displayed_position": 20,
+        "score": 2
+      },
+      {
+        "item_id": "bfi03",
+        "displayed_position": 21,
+        "score": 2
+      },
+      {
+        "item_id": "bfi30",
+        "displayed_position": 22,
+        "score": 4
+      },
+      {
+        "item_id": "bfi09",
+        "displayed_position": 23,
+        "score": 4
+      },
+      {
+        "item_id": "bfi35",
+        "displayed_position": 24,
+        "score": 1
+      },
+      {
+        "item_id": "bfi25",
+        "displayed_position": 25,
+        "score": 5
+      },
+      {
+        "item_id": "bfi46",
+        "displayed_position": 26,
+        "score": 4
+      },
+      {
+        "item_id": "bfi17",
+        "displayed_position": 27,
+        "score": 1
+      },
+      {
+        "item_id": "bfi44",
+        "displayed_position": 28,
+        "score": 4
+      },
+      {
+        "item_id": "bfi16",
+        "displayed_position": 29,
+        "score": 4
+      },
+      {
+        "item_id": "bfi39",
+        "displayed_position": 30,
+        "score": 4
+      },
+      {
+        "item_id": "bfi52",
+        "displayed_position": 31,
+        "score": 5
+      },
+      {
+        "item_id": "bfi19",
+        "displayed_position": 32,
+        "score": 3
+      },
+      {
+        "item_id": "bfi06",
+        "displayed_position": 33,
+        "score": 3
+      },
+      {
+        "item_id": "bfi48",
+        "displayed_position": 34,
+        "score": 5
+      },
+      {
+        "item_id": "bfi27",
+        "displayed_position": 35,
+        "score": 2
+      },
+      {
+        "item_id": "bfi22",
+        "displayed_position": 36,
+        "score": 4
+      },
+      {
+        "item_id": "bfi14",
+        "displayed_position": 37,
+        "score": 2
+      },
+      {
+        "item_id": "bfi24",
+        "displayed_position": 38,
+        "score": 4
+      },
+      {
+        "item_id": "bfi28",
+        "displayed_position": 39,
+        "score": 5
+      },
+      {
+        "item_id": "bfi50",
+        "displayed_position": 40,
+        "score": 2
+      },
+      {
+        "item_id": "bfi56",
+        "displayed_position": 41,
+        "score": 2
+      },
+      {
+        "item_id": "bfi51",
+        "displayed_position": 42,
+        "score": 1
+      },
+      {
+        "item_id": "bfi47",
+        "displayed_position": 43,
+        "score": 5
+      },
+      {
+        "item_id": "bfi60",
+        "displayed_position": 44,
+        "score": 1
+      },
+      {
+        "item_id": "bfi43",
+        "displayed_position": 45,
+        "score": 5
+      },
+      {
+        "item_id": "bfi38",
+        "displayed_position": 46,
+        "score": 4
+      },
+      {
+        "item_id": "bfi15",
+        "displayed_position": 47,
+        "score": 1
+      },
+      {
+        "item_id": "bfi58",
+        "displayed_position": 48,
+        "score": 4
+      },
+      {
+        "item_id": "bfi41",
+        "displayed_position": 49,
+        "score": 1
+      },
+      {
+        "item_id": "bfi31",
+        "displayed_position": 50,
+        "score": 5
+      },
+      {
+        "item_id": "bfi40",
+        "displayed_position": 51,
+        "score": 4
+      },
+      {
+        "item_id": "bfi23",
+        "displayed_position": 52,
+        "score": 4
+      },
+      {
+        "item_id": "bfi05",
+        "displayed_position": 53,
+        "score": 3
+      },
+      {
+        "item_id": "bfi36",
+        "displayed_position": 54,
+        "score": 3
+      },
+      {
+        "item_id": "bfi59",
+        "displayed_position": 55,
+        "score": 3
+      },
+      {
+        "item_id": "bfi34",
+        "displayed_position": 56,
+        "score": 5
+      },
+      {
+        "item_id": "bfi42",
+        "displayed_position": 57,
+        "score": 4
+      },
+      {
+        "item_id": "bfi02",
+        "displayed_position": 58,
+        "score": 5
+      },
+      {
+        "item_id": "bfi33",
+        "displayed_position": 59,
+        "score": 4
+      },
+      {
+        "item_id": "bfi18",
+        "displayed_position": 60,
+        "score": 5
+      }
+    ],
+    "attempts": [
+      {
+        "text": "{\"1\": 5, \"2\": 2, \"3\": 3, \"4\": 3, \"5\": 5, \"6\": 5, \"7\": 3, \"8\": 2, \"9\": 2, \"10\": 2, \"11\": 1, \"12\": 4, \"13\": 4, \"14\": 2, \"15\": 3, \"16\": 5, \"17\": 1, \"18\": 4, \"19\": 3, \"20\": 2, \"21\": 2, \"22\": 4, \"23\": 4, \"24\": 1, \"25\": 5, \"26\": 4, \"27\": 1, \"28\": 4, \"29\": 4, \"30\": 4, \"31\": 5, \"32\": 3, \"33\": 3, \"34\": 5, \"35\": 2, \"36\": 4, \"37\": 2, \"38\": 4, \"39\": 5, \"40\": 2, \"41\": 2, \"42\": 1, \"43\": 5, \"44\": 1, \"45\": 5, \"46\": 4, \"47\": 1, \"48\": 4, \"49\": 1, \"50\": 5, \"51\": 4, \"52\": 4, \"53\": 3, \"54\": 3, \"55\": 3, \"56\": 5, \"57\": 4, \"58\": 5, \"59\": 4, \"60\": 5}",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "measure": "bfi2",
+    "agent": "A02",
+    "group": 1,
+    "loop": 3,
+    "timepoint": "final",
+    "order": [
+      "bfi31",
+      "bfi05",
+      "bfi36",
+      "bfi02",
+      "bfi09",
+      "bfi48",
+      "bfi07",
+      "bfi58",
+      "bfi57",
+      "bfi33",
+      "bfi44",
+      "bfi08",
+      "bfi27",
+      "bfi21",
+      "bfi50",
+      "bfi54",
+      "bfi25",
+      "bfi52",
+      "bfi12",
+      "bfi13",
+      "bfi23",
+      "bfi55",
+      "bfi04",
+      "bfi19",
+      "bfi22",
+      "bfi35",
+      "bfi17",
+      "bfi15",
+      "bfi20",
+      "bfi56",
+      "bfi11",
+      "bfi45",
+      "bfi14",
+      "bfi26",
+      "bfi29",
+      "bfi49",
+      "bfi32",
+      "bfi01",
+      "bfi42",
+      "bfi60",
+      "bfi39",
+      "bfi59",
+      "bfi47",
+      "bfi18",
+      "bfi28",
+      "bfi51",
+      "bfi38",
+      "bfi34",
+      "bfi41",
+      "bfi03",
+      "bfi37",
+      "bfi46",
+      "bfi24",
+      "bfi06",
+      "bfi43",
+      "bfi53",
+      "bfi40",
+      "bfi30",
+      "bfi10",
+      "bfi16"
+    ],
+    "ok": true,
+    "accepted_attempt": 0,
+    "responses": [
+      {
+        "item_id": "bfi31",
+        "displayed_position": 1,
+        "score": 4
+      },
+      {
+        "item_id": "bfi05",
+        "displayed_position": 2,
+        "score": 2
+      },
+      {
+        "item_id": "bfi36",
+        "displayed_position": 3,
+        "score": 2
+      },
+      {
+        "item_id": "bfi02",
+        "displayed_position": 4,
+        "score": 1
+      },
+      {
+        "item_id": "bfi09",
+        "displayed_position": 5,
+        "score": 4
+      },
+      {
+        "item_id": "bfi48",
+        "displayed_position": 6,
+        "score": 2
+      },
+      {
+        "item_id": "bfi07",
+        "displayed_position": 7,
+        "score": 3
+      },
+      {
+        "item_id": "bfi58",
+        "displayed_position": 8,
+        "score": 2
+      },
+      {
+        "item_id": "bfi57",
+        "displayed_position": 9,
+        "score": 3
+      },
+      {
+        "item_id": "bfi33",
+        "displayed_position": 10,
+        "score": 3
+      },
+      {
+        "item_id": "bfi44",
+        "displayed_position": 11,
+        "score": 4
+      },
+      {
+        "item_id": "bfi08",
+        "displayed_position": 12,
+        "score": 1
+      },
+      {
+        "item_id": "bfi27",
+        "displayed_position": 13,
+        "score": 5
+      },
+      {
+        "item_id": "bfi21",
+        "displayed_position": 14,
+        "score": 4
+      },
+      {
+        "item_id": "bfi50",
+        "displayed_position": 15,
+        "score": 4
+      },
+      {
+        "item_id": "bfi54",
+        "displayed_position": 16,
+        "score": 2
+      },
+      {
+        "item_id": "bfi25",
+        "displayed_position": 17,
+        "score": 3
+      },
+      {
+        "item_id": "bfi52",
+        "displayed_position": 18,
+        "score": 1
+      },
+      {
+        "item_id": "bfi12",
+        "displayed_position": 19,
+        "score": 5
+      },
+      {
+        "item_id": "bfi13",
+        "displayed_position": 20,
+        "score": 4
+      },
+      {
+        "item_id": "bfi23",
+        "displayed_position": 21,
+        "score": 2
+      },
+      {
+        "item_id": "bfi55",
+        "displayed_position": 22,
+        "score": 4
+      },
+      {
+        "item_id": "bfi04",
+        "displayed_position": 23,
+        "score": 2
+      },
+      {
+        "item_id": "bfi19",
+        "displayed_position": 24,
+        "score": 3
+      },
+      {
+        "item_id": "bfi22",
+        "displayed_position": 25,
+        "score": 4
+      },
+      {
+        "item_id": "bfi35",
+        "displayed_position": 26,
+        "score": 1
+      },
+      {
+        "item_id": "bfi17",
+        "displayed_position": 27,
+        "score": 3
+      },
+      {
+        "item_id": "bfi15",
+        "displayed_position": 28,
+        "score": 1
+      },
+      {
+        "item_id": "bfi20",
+        "displayed_position": 29,
+        "score": 3
+      },
+      {
+        "item_id": "bfi56",
+        "displayed_position": 30,
+        "score": 2
+      },
+      {
+        "item_id": "bfi11",
+        "displayed_position": 31,
+        "score": 2
+      },
+      {
+        "item_id": "bfi45",
+        "displayed_position": 32,
+        "score": 2
+      },
+      {
+        "item_id": "bfi14",
+        "displayed_position": 33,
+        "score": 5
+      },
+      {
+        "item_id": "bfi26",
+        "displayed_position": 34,
+        "score": 4
+      },
+      {
+        "item_id": "bfi29",
+        "displayed_position": 35,
+        "score": 1
+      },
+      {
+        "item_id": "bfi49",
+        "displayed_position": 36,
+        "score": 1
+      },
+      {
+        "item_id": "bfi32",
+        "displayed_position": 37,
+        "score": 4
+      },
+      {
+        "item_id": "bfi01",
+        "displayed_position": 38,
+        "score": 2
+      },
+      {
+        "item_id": "bfi42",
+        "displayed_position": 39,
+        "score": 3
+      },
+      {
+        "item_id": "bfi60",
+        "displayed_position": 40,
+        "score": 2
+      },
+      {
+        "item_id": "bfi39",
+        "displayed_position": 41,
+        "score": 1
+      },
+      {
+        "item_id": "bfi59",
+        "displayed_position": 42,
+        "score": 1
+      },
+      {
+        "item_id": "bfi47",
+        "displayed_position": 43,
+        "score": 2
+      },
+      {
+        "item_id": "bfi18",
+        "displayed_position": 44,
+        "score": 3
+      },
+      {
+        "item_id": "bfi28",
+        "displayed_position": 45,
+        "score": 2
+      },
+      {
+        "item_id": "bfi51",
+        "displayed_position": 46,
+        "score": 3
+      },
+      {
+        "item_id": "bfi38",
+        "displayed_position": 47,
+        "score": 2
+      },
+      {
+        "item_id": "bfi34",
+        "displayed_position": 48,
+        "score": 5
+      },
+      {
+        "item_id": "bfi41",
+        "displayed_position": 49,
+        "score": 3
+      },
+      {
+        "item_id": "bfi03",
+        "displayed_position": 50,
+        "score": 3
+      },
+      {
+        "item_id": "bfi37",
+        "displayed_position": 51,
+        "score": 2
+      },
+      {
+        "item_id": "bfi46",
+        "displayed_position": 52,
+        "score": 4
+      },
+      {
+        "item_id": "bfi24",
+        "displayed_position": 53,
+        "score": 5
+      },
+      {
+        "item_id": "bfi06",
+        "displayed_position": 54,
+        "score": 5
+      },
+      {
+        "item_id": "bfi43",
+        "displayed_position": 55,
+        "score": 4
+      },
+      {
+        "item_id": "bfi53",
+        "displayed_position": 56,
+        "score": 5
+      },
+      {
+        "item_id": "bfi40",
+        "displayed_position": 57,
+        "score": 2
+      },
+      {
+        "item_id": "bfi30",
+        "displayed_position": 58,
+        "score": 1
+      },
+      {
+        "item_id": "bfi10",
+        "displayed_position": 59,
+        "score": 5
+      },
+      {
+        "item_id": "bfi16",
+        "displayed_position": 60,
+        "score": 2
+      }
+    ],
+    "attempts": [
+      {
+        "text": "{\"1\": 4, \"2\": 2, \"3\": 2, \"4\": 1, \"5\": 4, \"6\": 2, \"7\": 3, \"8\": 2, \"9\": 3, \"10\": 3, \"11\": 4, \"12\": 1, \"13\": 5, \"14\": 4, \"15\": 4, \"16\": 2, \"17\": 3, \"18\": 1, \"19\": 5, \"20\": 4, \"21\": 2, \"22\": 4, \"23\": 2, \"24\": 3, \"25\": 4, \"26\": 1, \"27\": 3, \"28\": 1, \"29\": 3, \"30\": 2, \"31\": 2, \"32\": 2, \"33\": 5, \"34\": 4, \"35\": 1, \"36\": 1, \"37\": 4, \"38\": 2, \"39\": 3, \"40\": 2, \"41\": 1, \"42\": 1, \"43\": 2, \"44\": 3, \"45\": 2, \"46\": 3, \"47\": 2, \"48\": 5, \"49\": 3, \"50\": 3, \"51\": 2, \"52\": 4, \"53\": 5, \"54\": 5, \"55\": 4, \"56\": 5, \"57\": 2, \"58\": 1, \"59\": 5, \"60\": 2}",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "measure": "bfi2",
+    "agent": "A03",
+    "group": 1,
+    "loop": 3,
+    "timepoint": "final",
+    "order": [
+      "bfi22",
+      "bfi52",
+      "bfi20",
+      "bfi26",
+      "bfi02",
+      "bfi30",
+      "bfi05",
+      "bfi40",
+      "bfi39",
+      "bfi55",
+      "bfi01",
+      "bfi10",
+      "bfi03",
+      "bfi50",
+      "bfi46",
+      "bfi31",
+      "bfi41",
+      "bfi19",
+      "bfi16",
+      "bfi04",
+      "bfi45",
+      "bfi33",
+      "bfi17",
+      "bfi54",
+      "bfi12",
+      "bfi53",
+      "bfi49",
+      "bfi44",
+      "bfi35",
+      "bfi11",
+      "bfi34",
+      "bfi57",
+      "bfi08",
+      "bfi15",
+      "bfi42",
+      "bfi06",
+      "bfi27",
+      "bfi58",
+      "bfi37",
+      "bfi43",
+      "bfi21",
+      "bfi23",
+      "bfi59",
+      "bfi24",
+      "bfi60",
+      "bfi47",
+      "bfi14",
+      "bfi36",
+      "bfi28",
+      "bfi18",
+      "bfi48",
+      "bfi25",
+      "bfi56",
+      "bfi07",
+      "bfi29",
+      "bfi32",
+      "bfi13",
+      "bfi38",
+      "bfi51",
+      "bfi09"
+    ],
+    "ok": true,
+    "accepted_attempt": 0,
+    "responses": [
+      {
+        "item_id": "bfi22",
+        "displayed_position": 1,
+        "score": 1
+      },
+      {
+        "item_id": "bfi52",
+        "displayed_position": 2,
+        "score": 5
+      },
+      {
+        "item_id": "bfi20",
+        "displayed_position": 3,
+        "score": 4
+      },
+      {
+        "item_id": "bfi26",
+        "displayed_position": 4,
+        "score": 3
+      },
+      {
+        "item_id": "bfi02",
+        "displayed_position": 5,
+        "score": 2
+      },
+      {
+        "item_id": "bfi30",
+        "displayed_position": 6,
+        "score": 5
+      },
+      {
+        "item_id": "bfi05",
+        "displayed_position": 7,
+        "score": 1
+      },
+      {
+        "item_id": "bfi40",
+        "displayed_position": 8,
+        "score": 2
+      },
+      {
+        "item_id": "bfi39",
+        "displayed_position": 9,
+        "score": 1
+      },
+      {
+        "item_id": "bfi55",
+        "displayed_position": 10,
+        "score": 4
+      },
+      {
+        "item_id": "bfi01",
+        "displayed_position": 11,
+        "score": 1
+      },
+      {
+        "item_id": "bfi10",
+        "displayed_position": 12,
+        "score": 1
+      },
+      {
+        "item_id": "bfi03",
+        "displayed_position": 13,
+        "score": 4
+      },
+      {
+        "item_id": "bfi50",
+        "displayed_position": 14,
+        "score": 4
+      },
+      {
+        "item_id": "bfi46",
+        "displayed_position": 15,
+        "score": 4
+      },
+      {
+        "item_id": "bfi31",
+        "displayed_position": 16,
+        "score": 1
+      },
+      {
+        "item_id": "bfi41",
+        "displayed_position": 17,
+        "score": 2
+      },
+      {
+        "item_id": "bfi19",
+        "displayed_position": 18,
+        "score": 3
+      },
+      {
+        "item_id": "bfi16",
+        "displayed_position": 19,
+        "score": 5
+      },
+      {
+        "item_id": "bfi04",
+        "displayed_position": 20,
+        "score": 2
+      },
+      {
+        "item_id": "bfi45",
+        "displayed_position": 21,
+        "score": 3
+      },
+      {
+        "item_id": "bfi33",
+        "displayed_position": 22,
+        "score": 3
+      },
+      {
+        "item_id": "bfi17",
+        "displayed_position": 23,
+        "score": 5
+      },
+      {
+        "item_id": "bfi54",
+        "displayed_position": 24,
+        "score": 5
+      },
+      {
+        "item_id": "bfi12",
+        "displayed_position": 25,
+        "score": 3
+      },
+      {
+        "item_id": "bfi53",
+        "displayed_position": 26,
+        "score": 4
+      },
+      {
+        "item_id": "bfi49",
+        "displayed_position": 27,
+        "score": 2
+      },
+      {
+        "item_id": "bfi44",
+        "displayed_position": 28,
+        "score": 4
+      },
+      {
+        "item_id": "bfi35",
+        "displayed_position": 29,
+        "score": 4
+      },
+      {
+        "item_id": "bfi11",
+        "displayed_position": 30,
+        "score": 4
+      },
+      {
+        "item_id": "bfi34",
+        "displayed_position": 31,
+        "score": 2
+      },
+      {
+        "item_id": "bfi57",
+        "displayed_position": 32,
+        "score": 5
+      },
+      {
+        "item_id": "bfi08",
+        "displayed_position": 33,
+        "score": 1
+      },
+      {
+        "item_id": "bfi15",
+        "displayed_position": 34,
+        "score": 4
+      },
+      {
+        "item_id": "bfi42",
+        "displayed_position": 35,
+        "score": 4
+      },
+      {
+        "item_id": "bfi06",
+        "displayed_position": 36,
+        "score": 4
+      },
+      {
+        "item_id": "bfi27",
+        "displayed_position": 37,
+        "score": 5
+      },
+      {
+        "item_id": "bfi58",
+        "displayed_position": 38,
+        "score": 3
+      },
+      {
+        "item_id": "bfi37",
+        "displayed_position": 39,
+        "score": 4
+      },
+      {
+        "item_id": "bfi43",
+        "displayed_position": 40,
+        "score": 5
+      },
+      {
+        "item_id": "bfi21",
+        "displayed_position": 41,
+        "score": 1
+      },
+      {
+        "item_id": "bfi23",
+        "displayed_position": 42,
+        "score": 3
+      },
+      {
+        "item_id": "bfi59",
+        "displayed_position": 43,
+        "score": 1
+      },
+      {
+        "item_id": "bfi24",
+        "displayed_position": 44,
+        "score": 3
+      },
+      {
+        "item_id": "bfi60",
+        "displayed_position": 45,
+        "score": 3
+      },
+      {
+        "item_id": "bfi47",
+        "displayed_position": 46,
+        "score": 5
+      },
+      {
+        "item_id": "bfi14",
+        "displayed_position": 47,
+        "score": 4
+      },
+      {
+        "item_id": "bfi36",
+        "displayed_position": 48,
+        "score": 4
+      },
+      {
+        "item_id": "bfi28",
+        "displayed_position": 49,
+        "score": 1
+      },
+      {
+        "item_id": "bfi18",
+        "displayed_position": 50,
+        "score": 2
+      },
+      {
+        "item_id": "bfi48",
+        "displayed_position": 51,
+        "score": 1
+      },
+      {
+        "item_id": "bfi25",
+        "displayed_position": 52,
+        "score": 2
+      },
+      {
+        "item_id": "bfi56",
+        "displayed_position": 53,
+        "score": 2
+      },
+      {
+        "item_id": "bfi07",
+        "displayed_position": 54,
+        "score": 5
+      },
+      {
+        "item_id": "bfi29",
+        "displayed_position": 55,
+        "score": 1
+      },
+      {
+        "item_id": "bfi32",
+        "displayed_position": 56,
+        "score": 4
+      },
+      {
+        "item_id": "bfi13",
+        "displayed_position": 57,
+        "score": 2
+      },
+      {
+        "item_id": "bfi38",
+        "displayed_position": 58,
+        "score": 5
+      },
+      {
+        "item_id": "bfi51",
+        "displayed_position": 59,
+        "score": 4
+      },
+      {
+        "item_id": "bfi09",
+        "displayed_position": 60,
+        "score": 2
+      }
+    ],
+    "attempts": [
+      {
+        "text": "{\"1\": 1, \"2\": 5, \"3\": 4, \"4\": 3, \"5\": 2, \"6\": 5, \"7\": 1, \"8\": 2, \"9\": 1, \"10\": 4, \"11\": 1, \"12\": 1, \"13\": 4, \"14\": 4, \"15\": 4, \"16\": 1, \"17\": 2, \"18\": 3, \"19\": 5, \"20\": 2, \"21\": 3, \"22\": 3, \"23\": 5, \"24\": 5, \"25\": 3, \"26\": 4, \"27\": 2, \"28\": 4, \"29\": 4, \"30\": 4, \"31\": 2, \"32\": 5, \"33\": 1, \"34\": 4, \"35\": 4, \"36\": 4, \"37\": 5, \"38\": 3, \"39\": 4, \"40\": 5, \"41\": 1, \"42\": 3, \"43\": 1, \"44\": 3, \"45\": 3, \"46\": 5, \"47\": 4, \"48\": 4, \"49\": 1, \"50\": 2, \"51\": 1, \"52\": 2, \"53\": 2, \"54\": 5, \"55\": 1, \"56\": 4, \"57\": 2, \"58\": 5, \"59\": 4, \"60\": 2}",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "measure": "bfi2",
+    "agent": "A04",
+    "group": 1,
+    "loop": 3,
+    "timepoint": "final",
+    "order": [
+      "bfi40",
+      "bfi23",
+      "bfi14",
+      "bfi01",
+      "bfi46",
+      "bfi47",
+      "bfi04",
+      "bfi26",
+      "bfi60",
+      "bfi05",
+      "bfi13",
+      "bfi45",
+      "bfi24",
+      "bfi52",
+      "bfi07",
+      "bfi55",
+      "bfi43",
+      "bfi32",
+      "bfi19",
+      "bfi16",
+      "bfi42",
+      "bfi17",
+      "bfi50",
+      "bfi58",
+      "bfi35",
+      "bfi44",
+      "bfi37",
+      "bfi57",
+      "bfi41",
+      "bfi10",
+      "bfi39",
+      "bfi38",
+      "bfi28",
+      "bfi34",
+      "bfi33",
+      "bfi27",
+      "bfi49",
+      "bfi31",
+      "bfi06",
+      "bfi59",
+      "bfi36",
+      "bfi22",
+      "bfi09",
+      "bfi30",
+      "bfi03",
+      "bfi53",
+      "bfi21",
+      "bfi18",
+      "bfi29",
+      "bfi51",
+      "bfi20",
+      "bfi15",
+      "bfi48",
+      "bfi25",
+      "bfi12",
+      "bfi02",
+      "bfi54",
+      "bfi08",
+      "bfi56",
+      "bfi11"
+    ],
+    "ok": true,
+    "accepted_attempt": 0,
+    "responses": [
+      {
+        "item_id": "bfi40",
+        "displayed_position": 1,
+        "score": 5
+      },
+      {
+        "item_id": "bfi23",
+        "displayed_position": 2,
+        "score": 1
+      },
+      {
+        "item_id": "bfi14",
+        "displayed_position": 3,
+        "score": 5
+      },
+      {
+        "item_id": "bfi01",
+        "displayed_position": 4,
+        "score": 2
+      },
+      {
+        "item_id": "bfi46",
+        "displayed_position": 5,
+        "score": 3
+      },
+      {
+        "item_id": "bfi47",
+        "displayed_position": 6,
+        "score": 4
+      },
+      {
+        "item_id": "bfi04",
+        "displayed_position": 7,
+        "score": 5
+      },
+      {
+        "item_id": "bfi26",
+        "displayed_position": 8,
+        "score": 3
+      },
+      {
+        "item_id": "bfi60",
+        "displayed_position": 9,
+        "score": 4
+      },
+      {
+        "item_id": "bfi05",
+        "displayed_position": 10,
+        "score": 5
+      },
+      {
+        "item_id": "bfi13",
+        "displayed_position": 11,
+        "score": 4
+      },
+      {
+        "item_id": "bfi45",
+        "displayed_position": 12,
+        "score": 5
+      },
+      {
+        "item_id": "bfi24",
+        "displayed_position": 13,
+        "score": 1
+      },
+      {
+        "item_id": "bfi52",
+        "displayed_position": 14,
+        "score": 3
+      },
+      {
+        "item_id": "bfi07",
+        "displayed_position": 15,
+        "score": 1
+      },
+      {
+        "item_id": "bfi55",
+        "displayed_position": 16,
+        "score": 1
+      },
+      {
+        "item_id": "bfi43",
+        "displayed_position": 17,
+        "score": 3
+      },
+      {
+        "item_id": "bfi32",
+        "displayed_position": 18,
+        "score": 5
+      },
+      {
+        "item_id": "bfi19",
+        "displayed_position": 19,
+        "score": 5
+      },
+      {
+        "item_id": "bfi16",
+        "displayed_position": 20,
+        "score": 5
+      },
+      {
+        "item_id": "bfi42",
+        "displayed_position": 21,
+        "score": 5
+      },
+      {
+        "item_id": "bfi17",
+        "displayed_position": 22,
+        "score": 4
+      },
+      {
+        "item_id": "bfi50",
+        "displayed_position": 23,
+        "score": 4
+      },
+      {
+        "item_id": "bfi58",
+        "displayed_position": 24,
+        "score": 3
+      },
+      {
+        "item_id": "bfi35",
+        "displayed_position": 25,
+        "score": 4
+      },
+      {
+        "item_id": "bfi44",
+        "displayed_position": 26,
+        "score": 3
+      },
+      {
+        "item_id": "bfi37",
+        "displayed_position": 27,
+        "score": 3
+      },
+      {
+        "item_id": "bfi57",
+        "displayed_position": 28,
+        "score": 5
+      },
+      {
+        "item_id": "bfi41",
+        "displayed_position": 29,
+        "score": 2
+      },
+      {
+        "item_id": "bfi10",
+        "displayed_position": 30,
+        "score": 2
+      },
+      {
+        "item_id": "bfi39",
+        "displayed_position": 31,
+        "score": 1
+      },
+      {
+        "item_id": "bfi38",
+        "displayed_position": 32,
+        "score": 1
+      },
+      {
+        "item_id": "bfi28",
+        "displayed_position": 33,
+        "score": 1
+      },
+      {
+        "item_id": "bfi34",
+        "displayed_position": 34,
+        "score": 3
+      },
+      {
+        "item_id": "bfi33",
+        "displayed_position": 35,
+        "score": 4
+      },
+      {
+        "item_id": "bfi27",
+        "displayed_position": 36,
+        "score": 4
+      },
+      {
+        "item_id": "bfi49",
+        "displayed_position": 37,
+        "score": 3
+      },
+      {
+        "item_id": "bfi31",
+        "displayed_position": 38,
+        "score": 4
+      },
+      {
+        "item_id": "bfi06",
+        "displayed_position": 39,
+        "score": 3
+      },
+      {
+        "item_id": "bfi59",
+        "displayed_position": 40,
+        "score": 2
+      },
+      {
+        "item_id": "bfi36",
+        "displayed_position": 41,
+        "score": 5
+      },
+      {
+        "item_id": "bfi22",
+        "displayed_position": 42,
+        "score": 3
+      },
+      {
+        "item_id": "bfi09",
+        "displayed_position": 43,
+        "score": 2
+      },
+      {
+        "item_id": "bfi30",
+        "displayed_position": 44,
+        "score": 2
+      },
+      {
+        "item_id": "bfi03",
+        "displayed_position": 45,
+        "score": 3
+      },
+      {
+        "item_id": "bfi53",
+        "displayed_position": 46,
+        "score": 3
+      },
+      {
+        "item_id": "bfi21",
+        "displayed_position": 47,
+        "score": 5
+      },
+      {
+        "item_id": "bfi18",
+        "displayed_position": 48,
+        "score": 1
+      },
+      {
+        "item_id": "bfi29",
+        "displayed_position": 49,
+        "score": 4
+      },
+      {
+        "item_id": "bfi51",
+        "displayed_position": 50,
+        "score": 3
+      },
+      {
+        "item_id": "bfi20",
+        "displayed_position": 51,
+        "score": 5
+      },
+      {
+        "item_id": "bfi15",
+        "displayed_position": 52,
+        "score": 3
+      },
+      {
+        "item_id": "bfi48",
+        "displayed_position": 53,
+        "score": 4
+      },
+      {
+        "item_id": "bfi25",
+        "displayed_position": 54,
+        "score": 2
+      },
+      {
+        "item_id": "bfi12",
+        "displayed_position": 55,
+        "score": 2
+      },
+      {
+        "item_id": "bfi02",
+        "displayed_position": 56,
+        "score": 4
+      },
+      {
+        "item_id": "bfi54",
+        "displayed_position": 57,
+        "score": 5
+      },
+      {
+        "item_id": "bfi08",
+        "displayed_position": 58,
+        "score": 5
+      },
+      {
+        "item_id": "bfi56",
+        "displayed_position": 59,
+        "score": 5
+      },
+      {
+        "item_id": "bfi11",
+        "displayed_position": 60,
+        "score": 5
+      }
+    ],
+    "attempts": [
+      {
+        "text": "{\"1\": 5, \"2\": 1, \"3\": 5, \"4\": 2, \"5\": 3, \"6\": 4, \"7\": 5, \"8\": 3, \"9\": 4, \"10\": 5, \"11\": 4, \"12\": 5, \"13\": 1, \"14\": 3, \"15\": 1, \"16\": 1, \"17\": 3, \"18\": 5, \"19\": 5, \"20\": 5, \"21\": 5, \"22\": 4, \"23\": 4, \"24\": 3, \"25\": 4, \"26\": 3, \"27\": 3, \"28\": 5, \"29\": 2, \"30\": 2, \"31\": 1, \"32\": 1, \"33\": 1, \"34\": 3, \"35\": 4, \"36\": 4, \"37\": 3, \"38\": 4, \"39\": 3, \"40\": 2, \"41\": 5, \"42\": 3, \"43\": 2, \"44\": 2, \"45\": 3, \"46\": 3, \"47\": 5, \"48\": 1, \"49\": 4, \"50\": 3, \"51\": 5, \"52\": 3, \"53\": 4, \"54\": 2, \"55\": 2, \"56\": 4, \"57\": 5, \"58\": 5, \"59\": 5, \"60\": 5}",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "measure": "bfi2",
+    "agent": "A05",
+    "group": 1,
+    "loop": 3,
+    "timepoint": "final",
+    "order": [
+      "bfi35",
+      "bfi53",
+      "bfi03",
+      "bfi25",
+      "bfi21",
+      "bfi60",
+      "bfi39",
+      "bfi12",
+      "bfi04",
+      "bfi23",
+      "bfi42",
+      "bfi33",
+      "bfi09",
+      "bfi50",
+      "bfi45",
+      "bfi43",
+      "bfi15",
+      "bfi02",
+      "bfi54",
+      "bfi30",
+      "bfi27",
+      "bfi47",
+      "bfi56",
+      "bfi38",
+      "bfi31",
+      "bfi08",
+      "bfi06",
+      "bfi58",
+      "bfi26",
+      "bfi11",
+      "bfi44",
+      "bfi29",
+      "bfi52",
+      "bfi05",
+      "bfi59",
+      "bfi57",
+      "bfi34",
+      "bfi40",
+      "bfi16",
+      "bfi07",
+      "bfi20",
+      "bfi36",
+      "bfi41",
+      "bfi22",
+      "bfi49",
+      "bfi10",
+      "bfi01",
+      "bfi37",
+      "bfi17",
+      "bfi19",
+      "bfi32",
+      "bfi48",
+      "bfi18",
+      "bfi13",
+      "bfi46",
+      "bfi55",
+      "bfi28",
+      "bfi51",
+      "bfi14",
+      "bfi24"
+    ],
+    "ok": true,
+    "accepted_attempt": 0,
+    "responses": [
+      {
+        "item_id": "bfi35",
+        "displayed_position": 1,
+        "score": 2
+      },
+      {
+        "item_id": "bfi53",
+        "displayed_position": 2,
+        "score": 1
+      },
+      {
+        "item_id": "bfi03",
+        "displayed_position": 3,
+        "score": 2
+      },
+      {
+        "item_id": "bfi25",
+        "displayed_position": 4,
+        "score": 1
+      },
+      {
+        "item_id": "bfi21",
+        "displayed_position": 5,
+        "score": 1
+      },
+      {
+        "item_id": "bfi60",
+        "displayed_position": 6,
+        "score": 4
+      },
+      {
+        "item_id": "bfi39",
+        "displayed_position": 7,
+        "score": 4
+      },
+      {
+        "item_id": "bfi12",
+        "displayed_position": 8,
+        "score": 2
+      },
+      {
+        "item_id": "bfi04",
+        "displayed_position": 9,
+        "score": 2
+      },
+      {
+        "item_id": "bfi23",
+        "displayed_position": 10,
+        "score": 2
+      },
+      {
+        "item_id": "bfi42",
+        "displayed_position": 11,
+        "score": 2
+      },
+      {
+        "item_id": "bfi33",
+        "displayed_position": 12,
+        "score": 3
+      },
+      {
+        "item_id": "bfi09",
+        "displayed_position": 13,
+        "score": 2
+      },
+      {
+        "item_id": "bfi50",
+        "displayed_position": 14,
+        "score": 2
+      },
+      {
+        "item_id": "bfi45",
+        "displayed_position": 15,
+        "score": 3
+      },
+      {
+        "item_id": "bfi43",
+        "displayed_position": 16,
+        "score": 2
+      },
+      {
+        "item_id": "bfi15",
+        "displayed_position": 17,
+        "score": 2
+      },
+      {
+        "item_id": "bfi02",
+        "displayed_position": 18,
+        "score": 3
+      },
+      {
+        "item_id": "bfi54",
+        "displayed_position": 19,
+        "score": 2
+      },
+      {
+        "item_id": "bfi30",
+        "displayed_position": 20,
+        "score": 5
+      },
+      {
+        "item_id": "bfi27",
+        "displayed_position": 21,
+        "score": 4
+      },
+      {
+        "item_id": "bfi47",
+        "displayed_position": 22,
+        "score": 5
+      },
+      {
+        "item_id": "bfi56",
+        "displayed_position": 23,
+        "score": 4
+      },
+      {
+        "item_id": "bfi38",
+        "displayed_position": 24,
+        "score": 3
+      },
+      {
+        "item_id": "bfi31",
+        "displayed_position": 25,
+        "score": 5
+      },
+      {
+        "item_id": "bfi08",
+        "displayed_position": 26,
+        "score": 2
+      },
+      {
+        "item_id": "bfi06",
+        "displayed_position": 27,
+        "score": 5
+      },
+      {
+        "item_id": "bfi58",
+        "displayed_position": 28,
+        "score": 4
+      },
+      {
+        "item_id": "bfi26",
+        "displayed_position": 29,
+        "score": 5
+      },
+      {
+        "item_id": "bfi11",
+        "displayed_position": 30,
+        "score": 1
+      },
+      {
+        "item_id": "bfi44",
+        "displayed_position": 31,
+        "score": 3
+      },
+      {
+        "item_id": "bfi29",
+        "displayed_position": 32,
+        "score": 5
+      },
+      {
+        "item_id": "bfi52",
+        "displayed_position": 33,
+        "score": 2
+      },
+      {
+        "item_id": "bfi05",
+        "displayed_position": 34,
+        "score": 3
+      },
+      {
+        "item_id": "bfi59",
+        "displayed_position": 35,
+        "score": 3
+      },
+      {
+        "item_id": "bfi57",
+        "displayed_position": 36,
+        "score": 2
+      },
+      {
+        "item_id": "bfi34",
+        "displayed_position": 37,
+        "score": 4
+      },
+      {
+        "item_id": "bfi40",
+        "displayed_position": 38,
+        "score": 2
+      },
+      {
+        "item_id": "bfi16",
+        "displayed_position": 39,
+        "score": 4
+      },
+      {
+        "item_id": "bfi07",
+        "displayed_position": 40,
+        "score": 4
+      },
+      {
+        "item_id": "bfi20",
+        "displayed_position": 41,
+        "score": 4
+      },
+      {
+        "item_id": "bfi36",
+        "displayed_position": 42,
+        "score": 2
+      },
+      {
+        "item_id": "bfi41",
+        "displayed_position": 43,
+        "score": 3
+      },
+      {
+        "item_id": "bfi22",
+        "displayed_position": 44,
+        "score": 3
+      },
+      {
+        "item_id": "bfi49",
+        "displayed_position": 45,
+        "score": 3
+      },
+      {
+        "item_id": "bfi10",
+        "displayed_position": 46,
+        "score": 1
+      },
+      {
+        "item_id": "bfi01",
+        "displayed_position": 47,
+        "score": 3
+      },
+      {
+        "item_id": "bfi37",
+        "displayed_position": 48,
+        "score": 1
+      },
+      {
+        "item_id": "bfi17",
+        "displayed_position": 49,
+        "score": 5
+      },
+      {
+        "item_id": "bfi19",
+        "displayed_position": 50,
+        "score": 2
+      },
+      {
+        "item_id": "bfi32",
+        "displayed_position": 51,
+        "score": 4
+      },
+      {
+        "item_id": "bfi48",
+        "displayed_position": 52,
+        "score": 3
+      },
+      {
+        "item_id": "bfi18",
+        "displayed_position": 53,
+        "score": 1
+      },
+      {
+        "item_id": "bfi13",
+        "displayed_position": 54,
+        "score": 3
+      },
+      {
+        "item_id": "bfi46",
+        "displayed_position": 55,
+        "score": 5
+      },
+      {
+        "item_id": "bfi55",
+        "displayed_position": 56,
+        "score": 3
+      },
+      {
+        "item_id": "bfi28",
+        "displayed_position": 57,
+        "score": 2
+      },
+      {
+        "item_id": "bfi51",
+        "displayed_position": 58,
+        "score": 1
+      },
+      {
+        "item_id": "bfi14",
+        "displayed_position": 59,
+        "score": 3
+      },
+      {
+        "item_id": "bfi24",
+        "displayed_position": 60,
+        "score": 2
+      }
+    ],
+    "attempts": [
+      {
+        "text": "{\"1\": 2, \"2\": 1, \"3\": 2, \"4\": 1, \"5\": 1, \"6\": 4, \"7\": 4, \"8\": 2, \"9\": 2, \"10\": 2, \"11\": 2, \"12\": 3, \"13\": 2, \"14\": 2, \"15\": 3, \"16\": 2, \"17\": 2, \"18\": 3, \"19\": 2, \"20\": 5, \"21\": 4, \"22\": 5, \"23\": 4, \"24\": 3, \"25\": 5, \"26\": 2, \"27\": 5, \"28\": 4, \"29\": 5, \"30\": 1, \"31\": 3, \"32\": 5, \"33\": 2, \"34\": 3, \"35\": 3, \"36\": 2, \"37\": 4, \"38\": 2, \"39\": 4, \"40\": 4, \"41\": 4, \"42\": 2, \"43\": 3, \"44\": 3, \"45\": 3, \"46\": 1, \"47\": 3, \"48\": 1, \"49\": 5, \"50\": 2, \"51\": 4, \"52\": 3, \"53\": 1, \"54\": 3, \"55\": 5, \"56\": 3, \"57\": 2, \"58\": 1, \"59\": 3, \"60\": 2}",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "measure": "bfi2",
+    "agent": "A06",
+    "group": 1,
+    "loop": 3,
+    "timepoint": "final",
+    "order": [
+      "bfi13",
+      "bfi02",
+      "bfi29",
+      "bfi31",
+      "bfi28",
+      "bfi12",
+      "bfi55",
+      "bfi50",
+      "bfi56",
+      "bfi17",
+      "bfi14",
+      "bfi58",
+      "bfi23",
+      "bfi36",
+      "bfi46",
+      "bfi33",
+      "bfi49",
+      "bfi19",
+      "bfi03",
+      "bfi41",
+      "bfi52",
+      "bfi35",
+      "bfi26",
+      "bfi10",
+      "bfi20",
+      "bfi06",
+      "bfi38",
+      "bfi54",
+      "bfi57",
+      "bfi08",
+      "bfi45",
+      "bfi53",
+      "bfi59",
+      "bfi40",
+      "bfi39",
+      "bfi44",
+      "bfi15",
+      "bfi42",
+      "bfi09",
+      "bfi27",
+      "bfi07",
+      "bfi18",
+      "bfi11",
+      "bfi04",
+      "bfi22",
+      "bfi05",
+      "bfi51",
+      "bfi32",
+      "bfi47",
+      "bfi24",
+      "bfi34",
+      "bfi30",
+      "bfi16",
+      "bfi21",
+      "bfi01",
+      "bfi48",
+      "bfi43",
+      "bfi60",
+      "bfi25",
+      "bfi37"
+    ],
+    "ok": true,
+    "accepted_attempt": 0,
+    "responses": [
+      {
+        "item_id": "bfi13",
+        "displayed_position": 1,
+        "score": 5
+      },
+      {
+        "item_id": "bfi02",
+        "displayed_position": 2,
+        "score": 5
+      },
+      {
+        "item_id": "bfi29",
+        "displayed_position": 3,
+        "score": 4
+      },
+      {
+        "item_id": "bfi31",
+        "displayed_position": 4,
+        "score": 5
+      },
+      {
+        "item_id": "bfi28",
+        "displayed_position": 5,
+        "score": 2
+      },
+      {
+        "item_id": "bfi12",
+        "displayed_position": 6,
+        "score": 1
+      },
+      {
+        "item_id": "bfi55",
+        "displayed_position": 7,
+        "score": 3
+      },
+      {
+        "item_id": "bfi50",
+        "displayed_position": 8,
+        "score": 3
+      },
+      {
+        "item_id": "bfi56",
+        "displayed_position": 9,
+        "score": 3
+      },
+      {
+        "item_id": "bfi17",
+        "displayed_position": 10,
+        "score": 3
+      },
+      {
+        "item_id": "bfi14",
+        "displayed_position": 11,
+        "score": 1
+      },
+      {
+        "item_id": "bfi58",
+        "displayed_position": 12,
+        "score": 1
+      },
+      {
+        "item_id": "bfi23",
+        "displayed_position": 13,
+        "score": 2
+      },
+      {
+        "item_id": "bfi36",
+        "displayed_position": 14,
+        "score": 1
+      },
+      {
+        "item_id": "bfi46",
+        "displayed_position": 15,
+        "score": 1
+      },
+      {
+        "item_id": "bfi33",
+        "displayed_position": 16,
+        "score": 3
+      },
+      {
+        "item_id": "bfi49",
+        "displayed_position": 17,
+        "score": 5
+      },
+      {
+        "item_id": "bfi19",
+        "displayed_position": 18,
+        "score": 2
+      },
+      {
+        "item_id": "bfi03",
+        "displayed_position": 19,
+        "score": 3
+      },
+      {
+        "item_id": "bfi41",
+        "displayed_position": 20,
+        "score": 2
+      },
+      {
+        "item_id": "bfi52",
+        "displayed_position": 21,
+        "score": 4
+      },
+      {
+        "item_id": "bfi35",
+        "displayed_position": 22,
+        "score": 1
+      },
+      {
+        "item_id": "bfi26",
+        "displayed_position": 23,
+        "score": 1
+      },
+      {
+        "item_id": "bfi10",
+        "displayed_position": 24,
+        "score": 5
+      },
+      {
+        "item_id": "bfi20",
+        "displayed_position": 25,
+        "score": 3
+      },
+      {
+        "item_id": "bfi06",
+        "displayed_position": 26,
+        "score": 2
+      },
+      {
+        "item_id": "bfi38",
+        "displayed_position": 27,
+        "score": 5
+      },
+      {
+        "item_id": "bfi54",
+        "displayed_position": 28,
+        "score": 3
+      },
+      {
+        "item_id": "bfi57",
+        "displayed_position": 29,
+        "score": 2
+      },
+      {
+        "item_id": "bfi08",
+        "displayed_position": 30,
+        "score": 4
+      },
+      {
+        "item_id": "bfi45",
+        "displayed_position": 31,
+        "score": 4
+      },
+      {
+        "item_id": "bfi53",
+        "displayed_position": 32,
+        "score": 2
+      },
+      {
+        "item_id": "bfi59",
+        "displayed_position": 33,
+        "score": 4
+      },
+      {
+        "item_id": "bfi40",
+        "displayed_position": 34,
+        "score": 3
+      },
+      {
+        "item_id": "bfi39",
+        "displayed_position": 35,
+        "score": 3
+      },
+      {
+        "item_id": "bfi44",
+        "displayed_position": 36,
+        "score": 1
+      },
+      {
+        "item_id": "bfi15",
+        "displayed_position": 37,
+        "score": 3
+      },
+      {
+        "item_id": "bfi42",
+        "displayed_position": 38,
+        "score": 2
+      },
+      {
+        "item_id": "bfi09",
+        "displayed_position": 39,
+        "score": 1
+      },
+      {
+        "item_id": "bfi27",
+        "displayed_position": 40,
+        "score": 5
+      },
+      {
+        "item_id": "bfi07",
+        "displayed_position": 41,
+        "score": 5
+      },
+      {
+        "item_id": "bfi18",
+        "displayed_position": 42,
+        "score": 2
+      },
+      {
+        "item_id": "bfi11",
+        "displayed_position": 43,
+        "score": 3
+      },
+      {
+        "item_id": "bfi04",
+        "displayed_position": 44,
+        "score": 2
+      },
+      {
+        "item_id": "bfi22",
+        "displayed_position": 45,
+        "score": 1
+      },
+      {
+        "item_id": "bfi05",
+        "displayed_position": 46,
+        "score": 5
+      },
+      {
+        "item_id": "bfi51",
+        "displayed_position": 47,
+        "score": 2
+      },
+      {
+        "item_id": "bfi32",
+        "displayed_position": 48,
+        "score": 2
+      },
+      {
+        "item_id": "bfi47",
+        "displayed_position": 49,
+        "score": 1
+      },
+      {
+        "item_id": "bfi24",
+        "displayed_position": 50,
+        "score": 4
+      },
+      {
+        "item_id": "bfi34",
+        "displayed_position": 51,
+        "score": 2
+      },
+      {
+        "item_id": "bfi30",
+        "displayed_position": 52,
+        "score": 4
+      },
+      {
+        "item_id": "bfi16",
+        "displayed_position": 53,
+        "score": 4
+      },
+      {
+        "item_id": "bfi21",
+        "displayed_position": 54,
+        "score": 2
+      },
+      {
+        "item_id": "bfi01",
+        "displayed_position": 55,
+        "score": 2
+      },
+      {
+        "item_id": "bfi48",
+        "displayed_position": 56,
+        "score": 2
+      },
+      {
+        "item_id": "bfi43",
+        "displayed_position": 57,
+        "score": 1
+      },
+      {
+        "item_id": "bfi60",
+        "displayed_position": 58,
+        "score": 4
+      },
+      {
+        "item_id": "bfi25",
+        "displayed_position": 59,
+        "score": 2
+      },
+      {
+        "item_id": "bfi37",
+        "displayed_position": 60,
+        "score": 1
+      }
+    ],
+    "attempts": [
+      {
+        "text": "{\"1\": 5, \"2\": 5, \"3\": 4, \"4\": 5, \"5\": 2, \"6\": 1, \"7\": 3, \"8\": 3, \"9\": 3, \"10\": 3, \"11\": 1, \"12\": 1, \"13\": 2, \"14\": 1, \"15\": 1, \"16\": 3, \"17\": 5, \"18\": 2, \"19\": 3, \"20\": 2, \"21\": 4, \"22\": 1, \"23\": 1, \"24\": 5, \"25\": 3, \"26\": 2, \"27\": 5, \"28\": 3, \"29\": 2, \"30\": 4, \"31\": 4, \"32\": 2, \"33\": 4, \"34\": 3, \"35\": 3, \"36\": 1, \"37\": 3, \"38\": 2, \"39\": 1, \"40\": 5, \"41\": 5, \"42\": 2, \"43\": 3, \"44\": 2, \"45\": 1, \"46\": 5, \"47\": 2, \"48\": 2, \"49\": 1, \"50\": 4, \"51\": 2, \"52\": 4, \"53\": 4, \"54\": 2, \"55\": 2, \"56\": 2, \"57\": 1, \"58\": 4, \"59\": 2, \"60\": 1}",
+        "snapshot": "mock",
+        "finish_reason": "stop",
+        "usage": {
+          "prompt_tokens": 0,
+          "completion_tokens": 0,
+          "reasoning_tokens": 0
+        }
+      }
+    ]
+  }
+]

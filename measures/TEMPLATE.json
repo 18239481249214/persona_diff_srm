@@ -1,0 +1,15 @@
+{
+  "name": "short_name_no_spaces",
+  "description": "What this instrument is and its citation. Not shown to the model.",
+  "instructions": "The instructions the model sees, written for this instrument.",
+  "item_stem": "Optional phrase each item completes, e.g. 'I am someone who...'. Use \"\" if none.",
+  "scale": {
+    "min": 1,
+    "max": 7,
+    "labels": {"1": "Strongly disagree", "4": "Neither agree nor disagree", "7": "Strongly agree"}
+  },
+  "items_file": "data/your_items.csv",
+  "expected_items": 20,
+  "randomize_order": true,
+  "max_tokens": null
+}
