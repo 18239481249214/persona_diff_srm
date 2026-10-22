@@ -1,0 +1,87 @@
+group,loop,dyad_id,agent,stage,flag,detail
+1,1,,A02,measure,straightline,bfi2 start: all 60 items = 3
+1,1,,A05,measure,straightline,bfi2 start: all 60 items = 3
+1,1,,A06,measure,straightline,bfi2 start: all 60 items = 3
+1,1,g01_l01_r01_d2,A02,conversation,action_narration,turn 6
+1,1,g01_l01_r01_d2,A06,conversation,action_narration,turn 7
+1,1,g01_l01_r01_d2,A02,conversation,action_narration,turn 8
+1,1,g01_l01_r01_d2,A06,conversation,action_narration,turn 9
+1,1,g01_l01_r01_d3,A04,conversation,action_narration,turn 8
+1,1,g01_l01_r01_d3,A01,conversation,action_narration,turn 9
+1,1,g01_l01_r01_d3,A04,conversation,action_narration,turn 10
+1,1,g01_l01_r02_d1,A01,conversation,action_narration,turn 6
+1,1,g01_l01_r02_d1,A03,conversation,action_narration,turn 7
+1,1,g01_l01_r02_d2,A02,conversation,action_narration,turn 7
+1,1,g01_l01_r02_d2,A04,conversation,action_narration,turn 8
+1,1,g01_l01_r02_d2,A02,conversation,action_narration,turn 9
+1,1,g01_l01_r02_d2,A04,conversation,action_narration,turn 10
+1,1,g01_l01_r03_d1,A04,conversation,action_narration,turn 7
+1,1,g01_l01_r03_d1,A06,conversation,action_narration,turn 8
+1,1,g01_l01_r03_d1,A04,conversation,action_narration,turn 9
+1,1,g01_l01_r03_d3,A01,conversation,action_narration,turn 3
+1,1,g01_l01_r03_d3,A05,conversation,action_narration,turn 4
+1,1,g01_l01_r03_d3,A05,memory,over_cap,"the entry for user_7fk8 is about 159 tokens, limit 150"
+1,1,g01_l01_r04_d1,A04,conversation,action_narration,turn 3
+1,1,g01_l01_r04_d1,A03,conversation,action_narration,turn 4
+1,1,g01_l01_r04_d1,A04,conversation,action_narration,turn 5
+1,1,g01_l01_r04_d1,A03,conversation,action_narration,turn 6
+1,1,g01_l01_r04_d1,A04,conversation,action_narration,turn 7
+1,1,g01_l01_r04_d1,A03,conversation,action_narration,turn 8
+1,1,g01_l01_r04_d1,A04,conversation,action_narration,turn 9
+1,1,g01_l01_r04_d1,A03,conversation,action_narration,turn 10
+1,1,g01_l01_r04_d3,A01,conversation,action_narration,turn 4
+1,1,g01_l01_r04_d3,A01,conversation,action_narration,turn 6
+1,1,g01_l01_r04_d3,A06,conversation,action_narration,turn 7
+1,1,g01_l01_r04_d3,A01,conversation,action_narration,turn 8
+1,1,g01_l01_r04_d3,A06,conversation,action_narration,turn 9
+1,1,g01_l01_r05_d1,A02,conversation,action_narration,turn 4
+1,1,g01_l01_r05_d1,A01,conversation,action_narration,turn 5
+1,1,g01_l01_r05_d2,A04,conversation,action_narration,turn 6
+1,1,g01_l01_r05_d2,A05,conversation,action_narration,turn 7
+1,1,g01_l01_r05_d2,A05,memory,truncated,a memory reply hit max_tokens
+1,1,g01_l01_r05_d3,A06,conversation,action_narration,turn 9
+1,1,g01_l01_r05_d3,A03,conversation,action_narration,turn 10
+1,1,g01_l01_r05_d3,A06,memory,truncated,a memory reply hit max_tokens
+2,1,,A02,measure,straightline,bfi2 start: all 60 items = 3
+2,1,,A04,measure,straightline,bfi2 start: all 60 items = 3
+2,1,,A05,measure,straightline,bfi2 start: all 60 items = 3
+2,1,,A06,measure,straightline,bfi2 start: all 60 items = 3
+2,1,g02_l01_r01_d2,A05,conversation,action_narration,turn 8
+2,1,g02_l01_r01_d2,A04,conversation,action_narration,turn 9
+2,1,g02_l01_r01_d2,A05,conversation,action_narration,turn 10
+2,1,g02_l01_r01_d3,A02,conversation,action_narration,turn 6
+2,1,g02_l01_r01_d3,A01,conversation,action_narration,turn 7
+2,1,g02_l01_r01_d3,A02,conversation,action_narration,turn 8
+2,1,g02_l01_r01_d3,A01,conversation,action_narration,turn 9
+2,1,g02_l01_r01_d3,A02,conversation,action_narration,turn 10
+2,1,g02_l01_r02_d1,A05,memory,over_cap,"the entry for user_e2wp is about 157 tokens, limit 150"
+2,1,g02_l01_r02_d2,A02,memory,over_cap,"the entry for user_l7h6 is about 168 tokens, limit 150"
+2,1,g02_l01_r02_d3,A04,conversation,action_narration,turn 4
+2,1,g02_l01_r02_d3,A01,conversation,action_narration,turn 5
+2,1,g02_l01_r02_d3,A04,conversation,action_narration,turn 6
+2,1,g02_l01_r02_d3,A01,conversation,action_narration,turn 7
+2,1,g02_l01_r02_d3,A04,conversation,action_narration,turn 8
+2,1,g02_l01_r02_d3,A01,conversation,action_narration,turn 9
+2,1,g02_l01_r03_d1,A02,conversation,action_narration,turn 6
+2,1,g02_l01_r03_d1,A05,conversation,action_narration,turn 7
+2,1,g02_l01_r03_d1,A02,conversation,action_narration,turn 8
+2,1,g02_l01_r03_d1,A05,conversation,action_narration,turn 9
+2,1,g02_l01_r03_d1,A05,memory,truncated,a memory reply hit max_tokens
+2,1,g02_l01_r03_d1,A02,memory,truncated,a memory reply hit max_tokens
+2,1,g02_l01_r03_d2,A06,conversation,action_narration,turn 5
+2,1,g02_l01_r03_d2,A04,conversation,action_narration,turn 6
+2,1,g02_l01_r03_d2,A06,conversation,action_narration,turn 7
+2,1,g02_l01_r03_d3,A01,conversation,action_narration,turn 6
+2,1,g02_l01_r03_d3,A01,conversation,action_narration,turn 8
+2,1,g02_l01_r03_d3,A01,conversation,action_narration,turn 10
+2,1,g02_l01_r03_d3,A03,memory,over_cap,"the entry for user_nude is about 179 tokens, limit 150"
+2,1,g02_l01_r04_d2,A04,conversation,action_narration,turn 5
+2,1,g02_l01_r04_d2,A03,conversation,action_narration,turn 8
+2,1,g02_l01_r04_d2,A04,conversation,action_narration,turn 9
+2,1,g02_l01_r04_d2,A03,conversation,action_narration,turn 10
+2,1,g02_l01_r04_d3,A02,conversation,action_narration,turn 4
+2,1,g02_l01_r04_d3,A02,memory,over_cap,"""interactions"" is about 523 tokens, limit 500; the entry for user_e2wp is about 154 tokens, limit 150"
+2,1,g02_l01_r05_d1,A06,conversation,action_narration,turn 2
+2,1,g02_l01_r05_d1,A06,memory,memory_parse_failed,kept previous memory
+2,1,g02_l01_r05_d2,A04,memory,truncated,a memory reply hit max_tokens
+2,1,g02_l01_r05_d3,A03,memory,truncated,a memory reply hit max_tokens

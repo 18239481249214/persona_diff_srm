@@ -1,0 +1,13 @@
+AUDIT PASS: runs\pilot_n6_k10_l3_g2
+design digest e498a8984ddc
+
+  sealed folders verified: 38
+  directed ratings re-parsed from raw replies: 180
+  ratings.csv: 720 rows checked against 720 raw-derived values
+  measures.csv: 2880 rows checked against 2880 raw-derived values
+  bfi2_over_time.csv: 48 administrations checked cell by cell
+  loop folders verified against combined/: 3
+
+FAIL (0)
+
+WARN (0)

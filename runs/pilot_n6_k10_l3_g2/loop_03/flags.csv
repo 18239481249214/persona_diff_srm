@@ -1,0 +1,71 @@
+group,loop,dyad_id,agent,stage,flag,detail
+1,3,g01_l03_r01_d1,A05,memory,over_cap,"""self"" is about 476 tokens, limit 400; ""interactions"" is about 573 tokens, limit 500; the entry for user_7fk8 is about 151 tokens, limit 150"
+1,3,g01_l03_r01_d2,A02,memory,memory_parse_failed,kept previous memory
+1,3,g01_l03_r01_d2,A04,memory,over_cap,"""interactions"" is about 516 tokens, limit 500"
+1,3,g01_l03_r01_d3,A06,memory,over_cap,"the entry for user_udcm is about 159 tokens, limit 150"
+1,3,g01_l03_r02_d1,A06,conversation,action_narration,turn 2
+1,3,g01_l03_r02_d1,A05,conversation,action_narration,turn 3
+1,3,g01_l03_r02_d1,A06,conversation,action_narration,turn 4
+1,3,g01_l03_r02_d1,A05,conversation,action_narration,turn 5
+1,3,g01_l03_r02_d1,A06,conversation,action_narration,turn 6
+1,3,g01_l03_r02_d1,A05,conversation,action_narration,turn 7
+1,3,g01_l03_r02_d1,A05,memory,over_cap,"""self"" is about 523 tokens, limit 400; ""interactions"" is about 652 tokens, limit 500; the entry for user_bkk4 is about 164 tokens, limit 150; the entry for user_7fk8 is about 151 tokens, limit 150"
+1,3,g01_l03_r02_d1,A05,memory,truncated,a memory reply hit max_tokens
+1,3,g01_l03_r02_d1,A06,memory,over_cap,"""self"" is about 424 tokens, limit 400; the entry for user_udcm is about 151 tokens, limit 150"
+1,3,g01_l03_r02_d2,A01,conversation,action_narration,turn 1
+1,3,g01_l03_r02_d2,A01,conversation,action_narration,turn 7
+1,3,g01_l03_r02_d2,A01,memory,over_cap,"the entry for user_hcgp is about 173 tokens, limit 150"
+1,3,g01_l03_r02_d2,A02,memory,over_cap,"the entry for user_qb3i is about 167 tokens, limit 150; the entry for user_7fk8 is about 200 tokens, limit 150"
+1,3,g01_l03_r03_d1,A06,memory,over_cap,"the entry for user_t08e is about 162 tokens, limit 150"
+1,3,g01_l03_r03_d1,A04,memory,memory_parse_failed,kept previous memory
+1,3,g01_l03_r03_d2,A03,memory,over_cap,"""self"" is about 402 tokens, limit 400; ""interactions"" is about 534 tokens, limit 500; the entry for user_7fk8 is about 179 tokens, limit 150"
+1,3,g01_l03_r03_d2,A03,memory,truncated,a memory reply hit max_tokens
+1,3,g01_l03_r03_d2,A01,memory,over_cap,"""interactions"" is about 519 tokens, limit 500; the entry for user_udcm is about 168 tokens, limit 150"
+1,3,g01_l03_r03_d2,A01,memory,truncated,a memory reply hit max_tokens
+1,3,g01_l03_r03_d3,A05,memory,over_cap,"""self"" is about 529 tokens, limit 400; the entry for user_hcgp is about 173 tokens, limit 150"
+1,3,g01_l03_r03_d3,A02,memory,over_cap,"the entry for user_qb3i is about 152 tokens, limit 150"
+1,3,g01_l03_r04_d1,A02,memory,over_cap,"the entry for user_bkk4 is about 169 tokens, limit 150"
+1,3,g01_l03_r04_d2,A03,memory,memory_parse_failed,kept previous memory
+1,3,g01_l03_r04_d2,A05,memory,over_cap,"""self"" is about 621 tokens, limit 400; ""interactions"" is about 697 tokens, limit 500; the entry for user_udcm is about 281 tokens, limit 150; the entry for user_hcgp is about 173 tokens, limit 150"
+1,3,g01_l03_r04_d2,A05,memory,truncated,a memory reply hit max_tokens
+1,3,g01_l03_r04_d3,A01,memory,over_cap,"""interactions"" is about 596 tokens, limit 500; the entry for user_t08e is about 156 tokens, limit 150; the entry for user_udcm is about 166 tokens, limit 150"
+1,3,g01_l03_r04_d3,A01,memory,truncated,a memory reply hit max_tokens
+1,3,g01_l03_r05_d1,A03,memory,over_cap,"""interactions"" is about 644 tokens, limit 500; the entry for user_7fk8 is about 179 tokens, limit 150; the entry for user_hcgp is about 173 tokens, limit 150"
+1,3,g01_l03_r05_d1,A02,memory,over_cap,"the entry for user_bkk4 is about 159 tokens, limit 150; the entry for user_udcm is about 162 tokens, limit 150"
+1,3,g01_l03_r05_d3,A04,memory,truncated,a memory reply hit max_tokens
+1,3,g01_l03_r05_d3,A05,memory,memory_parse_failed,kept previous memory
+2,3,g02_l03_r01_d1,A05,memory,truncated,a memory reply hit max_tokens
+2,3,g02_l03_r01_d2,A01,memory,over_cap,"the entry for user_e2wp is about 152 tokens, limit 150"
+2,3,g02_l03_r01_d3,A03,memory,truncated,a memory reply hit max_tokens
+2,3,g02_l03_r01_d3,A02,memory,memory_parse_failed,kept previous memory
+2,3,g02_l03_r02_d1,A02,memory,over_cap,"the entry for user_6as1 is about 154 tokens, limit 150"
+2,3,g02_l03_r02_d2,A03,memory,truncated,a memory reply hit max_tokens
+2,3,g02_l03_r02_d2,A06,memory,memory_parse_failed,kept previous memory
+2,3,g02_l03_r02_d3,A04,memory,truncated,a memory reply hit max_tokens
+2,3,g02_l03_r03_d1,A02,conversation,action_narration,turn 3
+2,3,g02_l03_r03_d2,A03,memory,over_cap,"the entry for user_e2wp is about 173 tokens, limit 150; the entry for user_vgj4 is about 165 tokens, limit 150"
+2,3,g02_l03_r03_d2,A04,memory,truncated,a memory reply hit max_tokens
+2,3,g02_l03_r03_d3,A05,conversation,action_narration,turn 2
+2,3,g02_l03_r03_d3,A05,conversation,action_narration,turn 4
+2,3,g02_l03_r03_d3,A01,conversation,action_narration,turn 5
+2,3,g02_l03_r03_d3,A05,conversation,action_narration,turn 6
+2,3,g02_l03_r03_d3,A01,conversation,action_narration,turn 7
+2,3,g02_l03_r03_d3,A05,conversation,action_narration,turn 8
+2,3,g02_l03_r03_d3,A01,conversation,action_narration,turn 9
+2,3,g02_l03_r03_d3,A05,memory,truncated,a memory reply hit max_tokens
+2,3,g02_l03_r04_d1,A02,memory,over_cap,"""interactions"" is about 530 tokens, limit 500; the entry for user_vgj4 is about 171 tokens, limit 150"
+2,3,g02_l03_r04_d2,A01,memory,over_cap,"""interactions"" is about 540 tokens, limit 500; the entry for user_l7h6 is about 159 tokens, limit 150"
+2,3,g02_l03_r04_d2,A03,memory,over_cap,"""interactions"" is about 535 tokens, limit 500; the entry for user_nude is about 159 tokens, limit 150; the entry for user_vgj4 is about 165 tokens, limit 150"
+2,3,g02_l03_r05_d1,A06,conversation,action_narration,turn 4
+2,3,g02_l03_r05_d1,A04,conversation,action_narration,turn 5
+2,3,g02_l03_r05_d1,A06,conversation,action_narration,turn 6
+2,3,g02_l03_r05_d1,A04,conversation,action_narration,turn 7
+2,3,g02_l03_r05_d1,A06,conversation,action_narration,turn 8
+2,3,g02_l03_r05_d1,A04,conversation,action_narration,turn 9
+2,3,g02_l03_r05_d1,A06,conversation,action_narration,turn 10
+2,3,g02_l03_r05_d1,A04,memory,over_cap,"the entry for user_e2wp is about 164 tokens, limit 150"
+2,3,g02_l03_r05_d1,A06,memory,over_cap,"""self"" is about 404 tokens, limit 400"
+2,3,g02_l03_r05_d2,A05,memory,truncated,a memory reply hit max_tokens
+2,3,g02_l03_r05_d2,A03,memory,truncated,a memory reply hit max_tokens
+2,3,g02_l03_r05_d3,A01,memory,over_cap,"""self"" is about 402 tokens, limit 400; ""interactions"" is about 525 tokens, limit 500; the entry for user_mnt8 is about 165 tokens, limit 150; the entry for user_l7h6 is about 156 tokens, limit 150"
+2,3,g02_l03_r05_d3,A01,memory,truncated,a memory reply hit max_tokens
